@@ -1,0 +1,97 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 50px;
+    height: 40px;
+    }
+
+.navbar-side{
+    display: flex;
+    gap: 20px;
+}
+
+.navbar a{
+    color: black;
+}
+
+.top-section{
+    display: flex;
+    background-color:#008d44;
+}
+.top-image{
+    padding: 5px 20px 0px 40px;
+}
+.top-section-input{
+    padding: 10px;
+    display: flex;
+    justify-content: left;
+    gap: 10px;
+    width: 50%;
+    border-radius: 100px;
+    
+}
+.location{
+    background-color: #008d44;
+    border-radius: 20px;
+    color: white;
+    width: 74px;
+    border-style: hidden;
+    
+}
+
+.input_search{
+    border: 2px;
+    border-radius: 20px;
+    width: 40%;
+   
+    padding-left: 20px;
+   
+}
+
+
+.top-section-customercare{
+    display: inline;
+    color: aliceblue;
+    padding-top: 15px;
+    font-size: 15px;
+}
+
+.whatsapp{
+    color: white;
+    padding-top: 25px;
+    padding-right: 8px;
+
+}
+
+.top-section-callback{
+    color: white;
+    padding-top: 15px;
+    font-size: 15px;
+}
+
+.callback{
+    color: white;
+    padding-top: 25px;
+    padding-right: 8px;
+    margin-left: 80px;
+}
+
+#dropdown-basic-button{
+   background-color: #008d44;
+   color: white;
+   margin-left: 100px;
+   margin-top: 20px;
+   border-color: white;
+   border-radius: 20px;
+   padding: 4px;
+   border-style: hidden;
+}
