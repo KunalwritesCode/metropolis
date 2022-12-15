@@ -8,34 +8,33 @@ import { Button } from 'react-bootstrap';
 
 const Top = () => {
   return (
-    <div className='top-section'>
-      <img className='top-image' src='https://www.metropolisindia.com/newdata/images/logo.svg' alt='#' />
+    <div className='Upper-section-green-section'>
+      <img className='Upper-section-green-section-image' src='https://www.metropolisindia.com/newdata/images/logo.svg' alt='#' />
 
-      <div className='top-section-input'>
-      <Button className='location'>Mumbai</Button>
-      <input className='input_search' typeof='text' placeholder='Search for tests and checkups' />
+      <div className='Upper-section-green-section-input'>
+      <Button className='Upper-section-green-section-location'>Mumbai</Button>
+      <input className='Upper-section-green-section-input_search' typeof='text' placeholder='Search for tests and checkups' />
       </div>
 
-      <div className='whatsapp'><WhatsAppIcon /></div>
+      <div className='Upper-section-green-section-whatsapp'><WhatsAppIcon fontSize='large' /></div>
       
       
-     <div className='top-section-customercare'>
+     <div className='Upper-section-green-section-customercare'>
       <p>Customer Care</p>
       <p>8422-801-801</p>
       </div>
       
-      <div className='callback'><PhoneCallbackIcon /></div>
+      <div className='Upper-section-green-section-Phonecallback'><PhoneCallbackIcon fontSize='large' /></div>
 
 
-      <div className='top-section-callback'>
+      <div className='Upper-section-green-section-callback'>
        <p>Home Visit Booking</p>
        <p>9982-782-555</p>
       </div>
 
       <div>
         <Drop />
-    
-      </div>
+     </div>
     
 
 

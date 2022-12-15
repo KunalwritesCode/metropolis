@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 
-.navbar{
+.Upper-section-navbar{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -14,23 +14,30 @@
     height: 40px;
     }
 
-.navbar-side{
+.Upper-section-navbar-side{
     display: flex;
     gap: 20px;
+    
 }
 
-.navbar a{
+.Upper-section-navbar a{
     color: black;
+    font-size: medium;
+    text-decoration: none;
 }
 
-.top-section{
+.Upper-section-navbar a:hover {
+    color: #008d44;
+  }
+
+.Upper-section-green-section{
     display: flex;
     background-color:#008d44;
 }
-.top-image{
+.Upper-section-green-section-image{
     padding: 5px 20px 0px 40px;
 }
-.top-section-input{
+.Upper-section-green-section-input{
     padding: 10px;
     display: flex;
     justify-content: left;
@@ -39,16 +46,17 @@
     border-radius: 100px;
     
 }
-.location{
+.Upper-section-green-section-location{
     background-color: #008d44;
     border-radius: 20px;
     color: white;
     width: 74px;
     border-style: hidden;
+    font-size: medium;
     
 }
 
-.input_search{
+.Upper-section-green-section-input_search{
     border: 2px;
     border-radius: 20px;
     width: 40%;
@@ -58,34 +66,34 @@
 }
 
 
-.top-section-customercare{
+.Upper-section-green-section-customercare{
     display: inline;
     color: aliceblue;
     padding-top: 15px;
     font-size: 15px;
 }
 
-.whatsapp{
+.Upper-section-green-section-whatsapp{
     color: white;
     padding-top: 25px;
     padding-right: 8px;
-
+    
 }
 
-.top-section-callback{
+.Upper-section-green-section-callback{
     color: white;
     padding-top: 15px;
     font-size: 15px;
 }
 
-.callback{
+.Upper-section-green-section-Phonecallback{
     color: white;
     padding-top: 25px;
     padding-right: 8px;
     margin-left: 80px;
 }
 
-#dropdown-basic-button{
+#Upper-section-green-section-dropdown-button{
    background-color: #008d44;
    color: white;
    margin-left: 100px;
@@ -94,4 +102,611 @@
    border-radius: 20px;
    padding: 4px;
    border-style: hidden;
+   cursor: pointer;
+   font-size: large;
+}
+
+.Upper-section-navigation{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding: 0px 50px;
+    height: 40px;
+}
+.Upper-section-navigation-button1{
+    margin-right: 30px;
+}
+
+.Upper-section-navigation-button2{
+    margin-right: 30px;
+}
+.Upper-section-navigation-button3{
+    margin-right: 30px;
+
+}
+
+.Upper-section-navigation-button4{
+    margin-right: 30px;
+}
+.Upper-section-navigation-buttons{
+    border-style: hidden;
+    font-size: 13px;
+}
+
+
+
+.Upper-section-navigation-house{
+    margin-right: 30px;
+    font-size: 13px;
+    
+   
+}
+
+.Upper-section-navigation-house-image{
+   width: 25px;
+   padding-right: 5px;
+}
+
+.Upper-section-navigation-rx{
+    margin-right: 30%;
+    font-size: 13px;
+}
+
+.Upper-section-navigation-Rlogo{
+    width: 25px;
+    padding-right: 5px;
+}
+.Upper-section-navigation-right-section{
+    margin-right: 50px;
+    font-size: 13px;
+}
+ .Upper-section-navigation-icon{
+    color: darkgrey;
+    padding-right: 6px;
+    
+
+ }
+
+ .Mid-section{
+    display: flex;
+    margin-top: 60px;
+    margin-left: 40px;
+ }
+
+ .Mid-section-button1{
+    font-size: small;
+    width: 70px;
+    border-radius: 10px;
+    margin-left: 20px;
+    background-color: #008d44;
+    color: white;
+    border-style: hidden;
+ }
+
+ .Mid-section-button2{
+    font-size: small;
+    width: 70px;
+    margin-left: 10px;
+    border-style: hidden solid hidden hidden;
+    background-color: white;
+    
+ }
+ .Mid-section-button3{
+    font-size: small;
+    width: 70px;
+    margin-left: 10px;
+    border-style: hidden solid hidden hidden;
+    background-color: white;
+ }
+ .Mid-section-button4{
+    font-size: small;
+    width: 100px;
+    margin-left: 20px;
+    border-style: hidden;
+    background-color: white;
+ }
+ .Mid-section-button5{
+    font-size: small;
+    width: 100px;
+    margin-left: 30px;
+    border-style: solid;
+    background-color: white;
+    color:black;
+    border-radius: 10px;
+    border-color: #008d44;
+ }
+ .Mid-section-button5:hover{
+    color: white;
+    background-color: #008d44;
+ }
+ .Mid-section-para{
+     font-size: medium;
+     margin-left: 40px;
+     margin-top: 20px;
+}
+
+.package-section-card-1{
+    gap: 15px;
+    align-items: center;
+    border: 2px solid #ebebeb;
+    border-radius: 20px;
+    border-style: inset;
+    overflow: hidden;
+    padding: 10px;
+    margin-top: 40px;
+    margin-left: 30px;
+    
+}
+
+
+
+.package-section-card-1:hover{
+    transform: scale(1.05);
+}
+
+.package-section-Card-image{
+    position: block;
+    width: 300px;
+    height: 250px;
+    margin-left: 20px;
+    object-fit: cover;
+    object-position: center;
+    
+}
+
+.package-section-card-1 h3{
+margin-left: 30px;
+margin-top: 20px;
+}
+
+.package-card-section-butoon-one{
+    margin-left: 115px;
+    margin-top: 20px;
+    background-color: #008d44;
+    color: white;
+    font-size: small;
+    width: 40px;
+    height: 30px;
+    border-radius: 10px;
+    border-style: hidden
+   
+}
+.package-section-card-1-head{
+    display: flex;
+}
+
+.package-section-card-1-head-button{
+    margin-top: 20px;
+    margin-left: 20px;
+    border-style: hidden;
+    font-size: medium;
+    
+    
+}
+.package-section-card-1-Cart-button{
+    font-size: large;
+    padding: 5px 80px;
+    margin-left: 30px;
+    margin-top: 5px;
+    background-color: rgb(54, 151, 184);
+    color: white;
+    border-style: hidden;
+}
+
+.popular-card-section-butoon-one{
+    margin-left: 115px;
+   
+    background-color: #008d44;
+    color: white;
+    font-size: small;
+    width: 40px;
+    height: 30px;
+    border-radius: 10px;
+    border-style: hidden
+   
+}
+.popular-section-card{
+    border: 3px solid #d3d3d3;
+    border-style: inset;
+    border-radius: 10px;
+}
+
+.popular-section-card-Upper{
+     margin-top: 40px;
+     display: flex;
+     
+}
+.popular-section-image{
+    
+    margin-left: 30px;
+}
+.popular-section-card-button{
+    margin-left: 225px;
+   
+    background-color: #008d44;
+    color: white;
+    font-size: small;
+    width: 50px;
+    height: 30px;
+    border-radius: 10px;
+    border-style: hidden
+}
+
+.popular-section-card h3, hr{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.popular-section-card-price{
+    font-size: medium;
+    margin-left: 30px;
+}
+
+.popular-section-card-button-Cart{
+    font-size: medium;
+    padding: 5px 80px;
+    margin-left: 60px;
+    margin-top: 5px;
+    background-color: #5ad36e;
+    color: white;
+    border-radius: 10px;
+    border-style: hidden;
+}
+
+.risk-section{
+    display: flex;
+    border: 4px solid hwb(120 42% 5%);
+    
+    border-style: ridge;
+    border-right: hidden;
+    border-radius: 5px;
+    
+}
+
+.risk-section-image{
+   
+   margin-top: 30px;
+    
+   border-radius: 50%;
+   width: 30%;
+   background-color: #e0e0e0;
+    margin-left: 90px
+    
+   
+}
+.risk-section h3{
+    margin-left: 95px;
+    margin-top: 20px;
+}
+
+.condition-section-image{
+    margin-top: 30px;
+    
+   border-radius: 50%;
+   width: 30%;
+   background-color: #fceee1;
+    margin-left: 90px
+}
+.Whyus-container{
+    margin : 50px;
+
+}
+
+.Whyus-container-start{
+    display: flex;
+   background-image: url(https://www.metropolisindia.com/newdata/images/why-metrobg.png);
+   background-size: cover;
+}
+.Whyus-container-inside{
+    margin: 60px;
+}
+.Whyus-container p{
+   font-size: medium;
+   margin-top: 30px;
+}
+
+.Whyus-container-line{
+    
+    color: #021e99;
+    width: 100px;
+    
+}
+.forty-image{
+    width: 300px;
+    height: 350px;
+    margin-top: 60px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.labdiv-section-first{
+   margin-top: 30px;
+   padding-left: 50px
+}
+.labdiv-section-first-image{
+    margin-left: 30px;
+    width: 130px;
+}
+
+.labdiv-section-first h3{
+    margin: 30px;
+}
+
+.conditions-section{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+.conditions-section-Card{
+    border: 3px solid hwb(120 42% 5%);
+    border-style: ridge;
+    margin-right: 30px;
+    
+
+}
+.conditions-section-Card h3{
+    margin-left: 75px;
+    margin-top: 20px;
+}
+
+.News-Cards{
+    margin-top: 40px;
+}
+
+.News-image{
+   
+    border: 3px ridge green;
+    border-right: hidden;
+    border-top: hidden;
+    margin: 20px;
+   }
+.News-image p{
+ margin-top: 30px;
+}
+   
+.News-image a{
+    margin-top: 20px;
+}
+.News-Card-Link{
+   color: #008d44;
+   text-decoration: none;
+    
+    
+}
+
+.our-apps-section{
+    border: 3px solid #4abfe2;
+    margin-top: 40px;
+    display: flex;
+    background-color: hwb(129 92% 1%);
+}
+
+.our-apps-section-image{
+    margin-top: 10rem;
+    margin-left: 40rem;
+    width: 50%;
+    
+}
+.our-apps-section-second{
+    margin-top: 10rem;
+}
+
+.our-apps-section-text p{
+    font-size: medium;
+    margin-top: 40px;
+}
+
+.our-apps-section-button{
+    font-size: medium;
+    padding: 5px 20px;
+    margin-left: 0px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    background-color: #5ad36e;
+    color: white;
+    border-radius: 10px;
+    border-style: hidden;
+}
+
+.our-apps-section-more img{
+    margin: 10px;
+}
+.Review-Section{
+    margin-top: 70px;
+    margin-left: 40px;
+    
+}
+
+.Review-Section-Head h1{
+    align-items: center;
+    justify-content: center;
+    margin-left: 700px;
+    margin-bottom: 40px;
+}
+.Review-Section-Head p{
+     font-size: large;
+     margin-left: 650px;
+     color: gray;
+}
+
+.Review-Section-Card{
+    margin: 60px;
+
+}
+
+.Review-Card-Icon{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 180px;
+    margin-bottom: 40px;
+    
+}
+
+.Review-Card-Para{
+    font-size: medium;
+    
+}
+
+.Review-Card-Head{
+    margin-top: 40px;
+    margin-left: 170px;
+}
+
+.achievements-section{
+    display: flex;
+   
+    background-image: url(https://www.metropolisindia.com/newdata/images/counter-background.png);
+}
+.achievements-section-first{
+    margin-left: 250px;
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+
+.Footer-section{
+    margin-top: 80px;
+    margin-left: 60px;
+    
+}
+.Footer-section-top h1{
+    padding-bottom: 20px;
+}
+
+.Footer-section-top p{
+     font-size: medium;
+     margin : 20px 0px 0px 
+}
+
+.Footer-section-top-Link{
+     margin-top: 30px;
+}
+
+.Footer-section-container{
+    display: flex;
+}
+.Footer-section-container-1{
+     display: flex;
+     flex-direction: column;
+     gap: 10px;
+     margin-top: 20px;
+     margin-right: 20px;
+}
+.Footer-section-container-2{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.Footer-section h3{
+    margin-top: 30px;
+
+}
+.Footer-section-container a{
+    
+    text-decoration: none;
+    color: gray;
+    font-size:15px;
+}
+
+.Footer-section-container-card{
+   display: flex;
+}
+
+.Footer-section-container-card-1{
+    margin-left: 40rem;
+}
+
+.Footer-section-container-card-2{
+     margin-left: 25rem;
+}
+.Footer-section-container-card-3{
+    margin-left: 10rem;
+}
+
+.footer-section-subcribe{
+    display: flex;
+}
+
+.footer-section-subcribe-get{
+    display: flex;
+}
+.footer-section-subcribe-get img{
+    width: 90px;
+    margin-right: 10px;
+}
+.footer-section-subcribe h2{
+    margin-top: 30px;
+}
+.footer-section-subcribe p{
+    font-size: 14px;
+    color: gray;
+}
+
+.footer-section-subcribe-follow{
+     margin-left: 140px;
+}
+
+.footer-section-subcribe-follow h2{
+    margin-bottom: 30px;
+}
+
+.footer-section-subcribe-follow-icon{
+       margin-right: 20px;
+       background-color: #008d44;
+       color: white;
+       border-radius: 10px;
+       padding: 5px;
+}
+
+.footer-section-subcribe-Newsletter{
+    margin-left: 300px;
+}
+.footer-section-subcribe-Newsletter button{
+    font-size: 15px;
+    padding: 8px;
+    background-color: #008d44;
+    color: white;
+    border-style: hidden;
+    margin-left: 10px;
+    border-radius: 5px;
+    width: 15rem;
+       
+}
+.footer-section-subcribe-Newsletter input{
+    margin-top: 30px;
+    font-size: 15px;
+    padding: 5px;
+    width: 45rem;
+    
+    
+}
+
+.Award-Section-Head{
+    margin-top: 60px;
+    margin-left: 70rem;
+}
+
+.Award-Section-Head h1{
+    padding-left: 50px;
+    margin-bottom: 20px;
+}
+
+.Award-Section-Head p{
+        font-size: medium;
+        
+}
+
+.Awards-Section-Card{
+  margin: 60px;
+}
+.Awards-Section-Card img{
+    width: 30rem;
+    margin-left: 70px;
+    margin-bottom: 40px;
+}
+.Awards-Section-Card h2{
+    justify-content: center;
+    align-items: center;
 }
