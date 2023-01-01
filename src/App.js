@@ -1,4 +1,5 @@
 import React from 'react'
+import { BrowserRouter as Routes, Route, Switch } from "react-router-dom";
 import NavBar from './components/NavBar';
 import Top from './components/Top'
 import Navigation from './components/Navigation';
@@ -14,6 +15,9 @@ import Review from './components/Review';
 import Achievements from './components/Achievements';
 import Footer from './components/Footer';
 import Awards from './components/Awards';
+import Truepackages from './components/Truepackages';
+import TPCard from './components/Cards/CardClick/TPCard';
+
 
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
@@ -24,21 +28,58 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 const App = () => {
   return (
     <div>
+    <Routes>
         <NavBar />
         <Top />
         <Navigation />
-        <BannerSection />
-        <Package />
-        <Popular />
-        <Risk />
-        <Conditions />
-        <Whywe />
-        <Blogs />
-        <Review />
-        <Achievements />
-        <Apps />
-        <Awards />
+        
+          <Route exact path="/">
+            <BannerSection />
+          </Route>
+          <Route exact path="/">
+            <Package />
+          </Route>
+          <Route exact path="/">
+            <Popular  />
+          </Route>
+          <Route exact path="/">
+            <Risk />
+          </Route>
+          <Route exact path="/">
+            <Conditions />
+          </Route>
+          <Route exact path="/">
+            <Whywe />
+          </Route>
+          <Route exact path="/">
+            <Blogs/>
+          </Route>
+          <Route exact path="/">
+            <Review />
+          </Route>
+          <Route exact path="/">
+            <Achievements />
+          </Route>
+          <Route exact path="/">
+            <Apps/>
+          </Route>
+          <Route exact path="/">
+            <Awards/>
+          </Route>
+
+          <Route exact path="/truepackage">
+            <Truepackages />
+          </Route>
+
+          <Route exact path="/truepackage/Card">
+            <TPCard />
+          </Route>
+        
+        
+         
+    
         <Footer />
+        </Routes>
     </div>
   )
 }

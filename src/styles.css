@@ -46,8 +46,8 @@
     border-radius: 100px;
     
 }
-.Upper-section-green-section-location{
-    background-color: #008d44;
+#Upper-section-green-section-location{
+    background-color: #00833f;
     border-radius: 20px;
     color: white;
     width: 74px;
@@ -685,16 +685,16 @@ margin-top: 20px;
 
 .Award-Section-Head{
     margin-top: 60px;
-    margin-left: 70rem;
+    margin-left: 60rem;
 }
 
 .Award-Section-Head h1{
-    padding-left: 50px;
+   
     margin-bottom: 20px;
 }
 
 .Award-Section-Head p{
-        font-size: medium;
+    font-size: medium;
         
 }
 
@@ -702,11 +702,646 @@ margin-top: 20px;
   margin: 60px;
 }
 .Awards-Section-Card img{
-    width: 30rem;
+    width: 20rem;
     margin-left: 70px;
     margin-bottom: 40px;
 }
-.Awards-Section-Card h2{
-    justify-content: center;
+.Awards-Section-Card {
+    
+    font-size: medium;
+    
+}
+
+.Content-truehealth{
+    background-color:  hsl(0, 37%, 97%);;
+}
+
+.Content-truehealth button{
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-style: hidden;
+    font-size: 11px;
+    color: grey;
+    
+}
+.Content-truehealth-Card img{
+    width: 1050px;
+    margin: 5px;
+}
+
+.Content-truehealth-mid{
+    margin-left:25%;
+    margin-right:25%;
+    margin-top:4%;
+    margin-bottom: 8%;
+}
+
+.Content-truehealth-mid-top h2{
+    margin-left: 39%;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+
+.Content-truehealth-mid-top img{
+    margin-left: 38%;
+    padding-top: 20px;
+    margin-bottom: 2%;
+}
+
+.Content-truehealth-mid-bottom{
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+}
+
+.Content-truehealth-mid h3{
+     margin-left: 15%;
+     margin-bottom: 6%;
+     margin-top :6%;
+}
+.Content-truehealth-mid-bottom img{
+    width: 30rem;
+    padding-top: 10%;
+}
+.Content-truehealth-mid-bottom-inside p{
+    margin: 5%;
+    font-size: small;
+}
+.Content-truehealth-mid-bottom-inside  h1{
+    font-weight: 600;
+    font-size: 16px;
+    margin-left: 5%;
+}
+.Content-truehealth-Container-Card{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.Content-truehealth-Container-Card h1{
+       padding-left: 18%;
+}
+
+.truehealth-Container-Card-1-para{
+      padding-left: 21%;
+      font-size: medium;
+      margin-top: 20px;
+      margin-bottom: 10%;
+}
+.truehealth-Container-Card-Row{
+    display: flex;
+    gap: 15px;
+    
+}
+
+.cards-picture{
+    width: 310px;
+    height: 280px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.truehealth-Container-Card-1{
+    border-radius: 10px;
+    border: 1px solid #f7f7f7;
+    overflow: hidden;
+ 
+    
+}
+.truehealth-Container-Card-1 h2{
+    padding-left: 10px;
+    margin-top: 20px;
+    color: #5ad36e;
+    font-weight: 600;
+}
+.truehealth-Container-Card-1 h5{
+    padding-left: 10px;
+    margin-top: 15px;
+    font-size: medium;
+    color: #536a8d;
+    font-weight: 600;
+}
+.truehealth-Container-Card-1-para-inside{
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+.truehealth-Container-Card-1-inside{
+    margin-top: 15px;
+    margin-left: 15px;
+    display: flex;
+}
+
+.truehealth-Container-Card-1-inside img{
+     width: 35px;
+}
+.truehealth-Container-Card-1-inside p{
+     font-size: small;
+     padding-left: 25px;
+     padding-top: 10px;
+}
+.truehealth-Container-Card-1-button-1{
+    font-size: medium;
+    width: 150px;
+    margin-left: 15px;
+    margin-top: 30px;
+    border-style: solid;
+    background-color: #5dccff;
+    color:white;
+    border-radius: 5px;
+    border-style: hidden;
+    padding-top: 5px ;
+    padding-bottom: 5px ;
+    padding-right: 20px;
+    padding-left: 20px;
+
+    
+}
+.truehealth-Container-Card-1-button-2{
+    font-size: medium;
+    width: 150px;
+    margin-left: 15px;
+    margin-top: 30px;
+    border-style: solid;
+    background-color: white;
+    color:#77c9ff;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #5dccff;
+    padding-top: 5px ;
+    padding-bottom: 5px ;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.truehealth-Container-Card-1-inside-2{
+    display: flex;
+}
+.truehealth-Container-Card-Row{
+    margin-top: 80px;
+}
+
+.truehealth-Container-Whyus-container{
+    margin-top: 10rem;
+    
+   
+}
+.truehealth-Container-Whyus-container-start{
+    display: flex;
+   background-image: url(https://www.metropolisindia.com/newdata/images/whymetropolisbg.svg);
+   background-size: cover;
+   
+}
+
+.truehealth-Container-Whyus-container-inside h2{
+    font-weight: 600;
+    font-size: 28px;
+    color: #35e753;
+    padding-left: 30%;
+    padding-top: 60px;
+}
+
+.truehealth-Container-Whyus-container-inside p{
+       margin-left: 30%;
+       font-size: 16px;
+       margin-top: 30px;
+       margin-right: 28%;
+       color: #536a8d;
+}
+.truehealth-Container-labdiv-section-first{
+    margin-top: 30px;
+    padding-right: 20rem;
+}
+
+.truehealth-Container-labdiv-section-first img{
+
+    margin-right: 30px;
+    width: 130px;
+    margin-bottom: 20px;
+}
+.truehealth-Container-labdiv-section-first h3{
+    margin: 7%;
+    font-size: small;
+    margin-bottom: 40px;
+}
+
+.cards-tp-container{
+    display: flex;
+    background-color: hsl(0, 37%, 97%);
+}
+
+.cards-tp-container-sidebar-left{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-top: 10px;
+    
+}
+.cards-tp-container-sidebar-left button{
+    border: 5px solid white;
+     background-color: #ffffff;
+    border-radius: 4px;
+    font-size: 15px;
+    color: #7e96b9;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.cards-tp-container-sidebar-left img{
+     width: 440px ;
+     height: 240px;
+     max-width: 100%;
+}
+
+.cards-tp-container-sidebar-middle{
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 90px;
+    
+}
+.cards-tp-container-sidebar-middle-top{
+    background-color: #ffffff;
+    border: 5px solid white;
+    border-radius: 4px;
+      box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.cards-tp-container-sidebar-middle-top-1{
+  display: flex;
+  padding-left: 30px;
+  padding-top: 20px;
+  margin-right: 20px;
+}
+.cards-tp-container-sidebar-middle-top-1 p{
+padding-left: 53rem;
+color: #536a8d;
+font-size: 12px;
+}
+
+.cards-tp-container-sidebar-middle-top-2{
+   display: flex;
+   margin-top: 20px;
+}
+
+.cards-tp-container-sidebar-middle-top-2 img{
+    width: 30px;
+    margin-left: 30px;
+}
+
+.cards-tp-container-sidebar-middle-top-2 p{
+    padding-left: 30px;
+    font-size: 15px;
+    padding-top: 10px;
+}
+
+
+.cards-tp-container-sidebar-middle-top-2-logo{
+    display: flex;
+}
+
+.cards-tp-container-sidebar-middle-top-2-logo-2{
+    display: flex;
+    margin-left: 20rem;
+}
+.cards-tp-container-sidebar-middle-certify-section{
+    display: flex;
+    margin-top: 50px;
+    padding-left: 10px;
+}
+.cards-tp-container-sidebar-middle-certify-1{
+    display: flex;
+    padding: 4px;
+    background-color: #ffffff;
+    border: 5px solid white;
+    border-radius: 4px;
+      box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+.cards-tp-container-sidebar-middle-certify-1 img{
+    width: 40px;
+    margin-right: 20px;
+}
+.cards-tp-container-sidebar-middle-certify-1 p{
+  font-size: 13px;
+  margin-top: 10px;
+}
+.cards-tp-container-sidebar-middle-certify{
+    display: flex;
+     padding: 4px;
+    margin-left: 100px;
+    background-color: #ffffff;
+    border: 5px solid white;
+    border-radius: 8px;
+      box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+.cards-tp-container-sidebar-middle-certify img{
+    width: 40px;
+    margin-right: 20px;
+}
+.cards-tp-container-sidebar-middle-certify p{
+    font-size: 13px;
+    margin-top: 10px;
+}
+.cards-tp-container-sidebar-middle-overview{
+    margin-top: 60px;
+    background-color: #ffffff;
+    border: 5px solid white;
+    border-radius: 8px;
+      box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+.cards-tp-container-sidebar-middle-overview h3{
+    font-weight: 600;
+    font-size: 20px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.cards-tp-container-sidebar-middle-overview p{
+    font-size: 15px;
+    margin-top: 20px;
+    padding-left: 30px;
+}
+.cards-tp-container-sidebar-middle-overview ul{
+    font-size: 15px;
+    padding-left: 30px;
+}
+.cards-tp-container-sidebar-middle-overview button{
+       font-size: 15px;
+       margin-top: 20px;
+       margin-left: 20px;
+       margin-bottom: 30px;
+       padding: 3px;
+       background-color: #fffefe;
+       color: #00984a;
+       border-style: solid;
+       border-color: #00984a;
+       border-radius: 5px;
+       width: 15rem
+    
+}
+.cards-tp-container-sidebar-parameter{
+    margin-top: 50px;
+    padding-bottom: 40px;
+     background-color: #ffffff;
+    border: 5px solid white;
+    border-radius: 8px;
+      box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+.cards-tp-container-sidebar-middle-top-1 h3{
+   font-weight: 600;
+   font-size: 20px;
+}
+.cards-tp-container-sidebar-parameter-outside{
+    display: flex;
+}
+.cards-tp-container-sidebar-parameter-inside{
+    display: flex;
+    margin-top: 30px;
+}
+
+.cards-tp-container-sidebar-parameter-inside-1{
+    display: flex;
+}
+.cards-tp-container-sidebar-parameter-inside img{
+    width: 40px;
+    margin-left: 20px;
+}
+.cards-tp-container-sidebar-parameter-inside-1{
+    font-size: 14px;
+    margin-left: 30px;
+    padding-top: 10px;
+}
+
+.cards-tp-container-sidebar-parameter-inside-first{
+    margin-left: 40%;
+    display: flex;
+    margin-top: 30px;
+}
+
+.cards-tp-container-sidebar-parameter-inside-2{
+    font-size: 14px;
+    display: flex;
+    margin-left: 30px;
+    padding-top: 10px;
+}
+.cards-tp-container-sidebar-parameter-inside-first img{
+    width: 40px;
+    margin-left: 20px;
+}
+.cards-tp-container-sidebar-questions{
+     margin-top: 50px;
+     background-color: #ffffff;
+    border: 5px solid white;
+    border-radius: 8px;
+      box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.cards-tp-container-sidebar-questions{
+    font-size: 20px;
+    font-weight: 400;
+    padding: 30px;
+}
+.cards-tp-container-sidebar-reviews{
+    margin-top: 40px;
+    background-color: #ffffff;
+   border: 5px solid white;
+   border-radius: 8px;
+     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.cards-tp-container-sidebar-reviews button{
+    font-size: 15px;
+    
+    margin-left: 57rem;
+    margin-bottom: 30px;
+    padding: 3px;
+    background-color: #fffefe;
+    color: #00984a;
+    border-style: solid;
+    border-color: #00984a;
+    border-radius: 5px;
+    width: 15rem
+}
+.cards-tp-container-sidebar-reviews{
+   font-size: 19px;
+   font-weight: 400;
+   padding-top: 0px;
+   padding-left: 20px;
+
+
+}
+
+.cards-tp-container-sidebar-reviews-top{
+    margin-top: 30px;
+}
+
+.cards-tp-container-sidebar-bottom{
+    margin-top: 40px;
+    background-color: #ffffff;
+   border: 5px solid white;
+   border-radius: 8px;
+     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.cards-tp-container-sidebar-bottom h4{
+  font-size: 20px;
+  padding-left: 30px;
+  padding-top: 40px;
+}
+.cards-tp-container-sidebar-bottom p{
+    font-size: 15px;
+    padding-left: 30px;
+    padding-top: 20px;
+}
+.cards-tp-container-sidebar-bottom-1{
+   display: flex;
+}
+.cards-tp-container-sidebar-bottom img{
+    margin-left: 50px;
+}
+.cards-tp-container-sidebar-bottom-1-inside{
+    margin: 30px;
+
+}
+
+
+
+
+.cards-tp-container-sidebar-right-first-inside{
+    border: 2px solid #00984a;
+    margin-left: 30px;
+    
+    padding-left: 90px;
+    padding-right: 90px;
+    background-color: #ffffff;
+    border: 3px solid white;
+    border-radius: 8px;
+    border-color: #31ac45;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    height: 150px;
+    width: 450px;
+}
+
+.cards-tp-container-sidebar-right-first-inside h3{
+    font-size: 18px;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+.cards-tp-container-sidebar-right-first-inside p{
+     font-size: 18px;
+     padding-left: 100px;
+     padding-top: 20px;
+     color: #1d9130;
+}
+
+.cards-tp-container-sidebar-right-first-inside button{
+    color: white;
+    background-color: hsl(192, 100%, 66%);
+    border-radius: 5px;
+    border-style: hidden;
+    padding-top: 5px;
+    
+    padding-bottom: 5px;
+    padding-left: 90px;
+    padding-right: 80px;
+    
+    font-size: medium;
+    
+}
+.cards-tp-container-sidebar-right-first :hover{
+    transform: translateY(-10px);
+    
+}
+
+.cards-tp-container-sidebar-right-second {
+    background-color: #ffffff;
+    border: 1px solid white;
+    margin-top: 30px;
+    margin-left: 35px;
+    border-radius: 9px;
+    
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+
+.cards-tp-container-sidebar-right-second h6{
+    font-size: 15px;
+    padding-left: 140px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #ffefa1;
+    
+}
+.cards-tp-container-sidebar-right-second p{
     align-items: center;
+    justify-content: end;
+    font-size: 13px;
+    padding-left:40px;
+    padding-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #536a8d;
+}
+.cards-tp-container-sidebar-right-second button{
+    color: white;
+    background-color: #00984a;
+    border-radius: 5px;
+    border-style: hidden;
+    font-size: 15px;
+    padding: 8px;
+    margin-left: 140px;
+    margin-bottom: 40px;
+}
+
+.cards-tp-container-sidebar-right-third{
+    border: 1px solid white;
+    margin-top: 30px;
+    margin-left: 35px;
+    border-radius: 9px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    background-color: #ffffff;
+}
+
+.cards-tp-container-sidebar-right-third h6{
+    font-size: 15px;
+    padding-left: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #ffefa1;
+}
+.cards-tp-container-sidebar-right-third-inside img{
+    filter: invert(45%) sepia(44%) saturate(2080%) hue-rotate(161deg) brightness(94%) contrast(103%);
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+}
+
+
+
+.cards-tp-container-sidebar-right-third-inside-card{
+    display: flex;
+    font-size: 12px;
+    margin-top: 20px;
+    
+}
+.cards-tp-container-sidebar-right-third-inside-card span{
+   padding-left: 140px;
+}
+.cards-tp-container-sidebar-right-third-inside{
+    overflow: scroll;
+    height: 200px;
+    overflow-x: hidden;
+}
+.cards-tp-container-sidebar-right-fourth{
+    border: 1px solid white;
+    margin-top: 30px;
+    margin-left: 35px;
+    border-radius: 9px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    background-color: #ffffff;
+}
+.cards-tp-container-sidebar-right-fourth h6{
+    font-size: 15px;
+    padding-left: 140px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #ffefa1;
 }

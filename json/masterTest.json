@@ -1,0 +1,874 @@
+[
+    { 
+        "id" : "1",
+        "name" : "Cardiac Test",
+        "price" : "Rs 1400",
+        "includes" : "Tests included are : CBC,Urine Rt, ESR, FBS, Cholesterol,SGOT, LDH, CPK"
+        
+        
+    },
+    
+    
+    { 
+        "id" : "2",
+        "name" : "Cardiac Profile Test",
+        "price" : "Rs 1400",
+        "includes" : " tests are included :  LDH, CPK-Total & CK-MB, SGOT"
+        
+        
+    },
+
+    { 
+        "id" : "3",
+        "name" : "Cardiac Risk Profile Test",
+        "price" : "Rs 4300",
+        "includes" : "Tests included are : Homocysteine, D-Dimer, HsCRP, Lipid profile-1"
+        
+        
+    },
+
+    { 
+        "id" : "4",
+        "name" : "Cardiac Injury Profile Test",
+        "price" : "Rs 4700",
+        "includes" : "The following tests are included :  NT-Pro BNP, Troponin I, CKMB, Myoglobin"
+        
+        
+    },
+    { 
+        "id" : "5",
+        "name" : "Heart failure profile-maxi**",
+        "price" : "Rs 4900",
+        "includes" : "The following tests are included : NT-proBNP, HsCRP, uric acid, creatinine, troponin I."
+        
+        
+    },
+    { 
+        "id" : "6",
+        "name" : "Atherosclerosis Profile - 1**",
+        "price" : "Rs 4950",
+        "includes" : "The following tests are included : Cholesterol-Total, HDL, Non HDL, LDL, VLDL and Triglycerides, Lp(a), Apolipoproteins B/A1, Lp-PLA2"
+        
+        
+    },
+    { 
+        "id" : "7",
+        "name" : "Atherosclerosis Profile - 2**",
+        "price" : "Rs 5800",
+        "includes" : "This test is Indicated for cardiac and stroke pateints. Tests include-Total, HDL, Non HDL, LDL, VLDL and Triglycerides, Lp(a), Apolipoproteins B/A1, Lp-PLA2, HsCRP, Homocysteine."
+        
+        
+    },
+    { 
+        "id" : "8",
+        "name" : "Cardiac Screen-123",
+        "price" : "Rs 6000",
+        "includes" : "Tests included are : Homocystiene, hscrp, troponin I high sensitive, apolipoprotiens, Lp-pla2, Lipid profile-2 "
+        
+        
+    },
+    { 
+        "id" : "9",
+        "name" : "Atherosclerosis Profile - 3**",
+        "price" : "Rs 6950",
+        "includes" : "This test is Indicated for cardiac and stroke pateints. Tests includes - Cholesterol-Total, HDL, Non HDL, LDL, VLDL and Triglycerides, Lp(a), Apolipoproteins B/A1, Lp-PLA2, HsCRP, Homocysteine. "
+        
+        
+    },
+
+    { 
+        "id" : "10",
+        "name" : "Sgot Test",
+        "price" : "Rs 220",
+        "includes" : "SGOT test is done to test the functioning of liver"
+        
+        
+    },
+    { 
+        "id" : "11",
+        "name" : "Bilirubin Test",
+        "price" : "Rs 280 "
+        
+        
+        
+    },
+    { 
+        "id" : "12",
+        "name" : "Liver Function Test",
+        "price" : "Rs 575 "
+       
+        
+        
+    },
+    { 
+        "id" : "13",
+        "name" : "Liver Function Test-2(Mini)",
+        "price" : "Rs 1050",
+        "includes" : "Tests include : Bilirubin-Total, Direct & Indirect, SGOT, SGPT, Proteins, Alkaline Phosphatase, GGT"
+        
+        
+    },
+    { 
+        "id" : "14",
+        "name" : "Liver Profile Test",
+        "price" : "Rs 1475",
+        "includes" : "Liver Function tests are group of tests ordered to understand how well the Liver is performing"
+        
+        
+    },
+    { 
+        "id" : "15",
+        "name" : "Autoimmune Liver Disease Profile-3**",
+        "price" : "Rs 4000",
+        "includes" : "Includes ASMA, LKM1, ANA"
+        
+        
+    },
+    { 
+        "id" : "16",
+        "name" : "Autoimmune Liver Disease Profile -1 Test",
+        "price" : "Rs 4700",
+        "includes" : "Autoimmune Liver Disease Profile 1 /Autoimmune hepatitis 1 contains ANA, ASMA, LKM1, AMA which Facilitate early diagnosis of autoimmune hepatitis & Primary Biliary Cirrhosis"
+        
+        
+    },
+    { 
+        "id" : "17",
+        "name" : "Autoimmune Liver Disease Profile-4**",
+        "price" : "Rs 5400",
+        "includes" : "Includes AMA M2, M2-3E (Bpo), Sp100, PML, gp210, LKM1, LC1, SLA / LP, Ro52."
+        
+        
+    },
+    { 
+        "id" : "18",
+        "name" : "FibromaxFibrosis, Activity, STEATO, ASH and NASH of Liver.**",
+        "price" : "Rs 13900 ",
+        "includes" : "Patients date of birth, Height, Weight is must. Measures Fibrosis, Activity, STEATO, ASH AND NASH of liver. SGPT, SGOT, Triglycerides, Cholesterol, FBS, Bilirubin, Alpha 2 macroglobulin, Haptoglobulin, Apo A1, GGT. Fasting Required"
+        
+        
+    },
+    { 
+        "id" : "19",
+        "name" : "Progressive familial intrahepatic cholestasis-Gene Pane",
+        "price" : "Rs 20000 "
+        
+        
+        
+    },
+    { 
+        "id" : "20",
+        "name" : "Urine Routine Test",
+        "price" : "Rs 165",
+        "includes" : "A routine urine examination is a regular test that the doctor may order for you. It helps diagnose certain diseases and is almost always ordered when you present yourself with a fever."
+        
+        
+    },
+    { 
+        "id" : "21",
+        "name" : "GFR With Creatinine Test",
+        "price" : "Rs 320 ",
+        "includes" : "This test allows laboratory to estimate creatinine in urine and further calculate eGFR."
+        
+        
+    },
+    { 
+        "id" : "22",
+        "name" : "Kidney Function Test",
+        "price" : "Rs 1050"
+        
+        
+        
+    },
+    { 
+        "id" : "23",
+        "name" : "Kidney Function Test Maxi",
+        "price" : "Rs 1900 ",
+        "includes" : "Kidney Function tests are group of tests ordered to understand how well the Kidneys are performing. The Kidney Function tests include Electrolytes, Albumin, Creatinine, BUN, Glomerular Filtration Rate etc."
+        
+        
+    },
+    { 
+        "id" : "24",
+        "name" : "Stone screening profile **",
+        "price" : "Rs 2150 ",
+        "includes" : "Tests included are : Supersaturation profile-urine. Calcium, Magnesium, Uric Acid, Oxalate, Citrate, Phosphorous.24 hours urine sample with appropriate preservative. 24 H urine Collection for 2 days . First day in Boric acid and 2nd day with NaOh preservative for Uric acid "
+        
+        
+    },
+    { 
+        "id" : "25",
+        "name" : "Stone screening profile-1**",
+        "price" : "Rs 3700 ",
+        "includes" : "Tests included are : Serum-Uric acid, phosphorus, calcium, electrolytes(Sodium ,potassium, bicarbonate, chlorides),creatinine, PTH & 24 hrs Urine-Uric acid, phosphorus, calcium, magnesium, oxalate, citrate, electrolytes, creatinine. 24 hours urine sample with appropriate preservative. 24 H urine Collection for 2 days . First day in Boric acid and 2nd day with NaOh preservative for Uric acid . Comprehensive metabolic workup"
+        
+        
+    },
+    { 
+        "id" : "26",
+        "name" : "TSH Ultrasensitive Test (TSH Test)",
+        "price" : "Rs 380 ",
+        "includes" : "Short Description: TSH test helps evaluate thyroid gland function and to help diagnose thyroid disorders."
+        
+        
+    },
+    { 
+        "id" : "27",
+        "name" : "4 Panel Thyroid Test",
+        "price" : "Rs 440 ",
+        "includes" : "Includes Thyroscreen. FT4 And TSH-3Rd Gen"
+        
+        
+    },
+    { 
+        "id" : "28",
+        "name" : "Thyroid Panel 3 Test",
+        "price" : "Rs 400 ",
+        "includes" : "FT3,FT4 done If TSH is Abnormal. "
+        
+        
+    },
+    { 
+        "id" : "29",
+        "name" : "Thyroid Test",
+        "price" : "Rs 550 ",
+        "includes" : "Thyroid test is done to evaluate the functioning of thyroid gland"
+        
+        
+    },
+    { 
+        "id" : "30",
+        "name" : "Thyroid Panel Test - 2 ( FT3, FT4, TSH)",
+        "price" : "Rs 750 ",
+        "includes" : "Includes FT3, FT4, TSH-3Rd Gen"
+        
+        
+    },
+    { 
+        "id" : "31",
+        "name" : "Thyroid Panel Test - 2 ( FT3, FT4, TSH)",
+        "price" : "Rs 1600 ",
+        "includes" : "Includes TSH,FT3,FT4 And TPO"
+        
+        
+    },
+    { 
+        "id" : "32",
+        "name" : "Thyroid Profile Test",
+        "price" : "Rs  2700",
+        "includes" : "Includes T3,T4,TSH,FT3,FT4, TPO & ATA"
+        
+        
+    },
+    { 
+        "id" : "33",
+        "name" : "Calcium Test",
+        "price" : "Rs 240 ",
+        "includes" : "Calcium test is used to measure the amount of calcium in your blood."
+        
+        
+    },
+    { 
+        "id" : "34",
+        "name" : "Vitamin D Plus Test",
+        "price" : "Rs 1650 ",
+        "includes" : "Vit D reflex PTH. Serum sample also acceptable. PTH test done when Vit D less than 30 ng/ml"
+        
+        
+    },
+    { 
+        "id" : " 35",
+        "name" : "Osteoporosis Test",
+        "price" : "Rs 1950 ",
+        "includes" : "The following Tests are included : Ca, P, Alkaline Phosphatase-Total, DPD. Diagnostic profile for better solution"
+        
+        
+    },
+    { 
+        "id" : "36",
+        "name" : "Beta-2-CrosslapsCTx-1Plasma**",
+        "price" : "Rs 2000 ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "37",
+        "name" : "Osteomon Profile **",
+        "price" : "Rs 2990 ",
+        "includes" : "This profile includes below test parameters - NTx, CTx (Beta 2 crosslaps), DPD, Acid phosphatase, PTH. (Bone resorption markers)"
+        
+        
+    },
+   
+    { 
+        "id" : "38",
+        "name" : "Bone Resorption Markers",
+        "price" : "Rs 4250  ",
+        "includes" : "This profile includes below test parameters - NTx, CTx (Beta 2 crosslaps), DPD, Acid phosphatase, PTH. (Bone resorption markers)"
+        
+        
+    },
+    { 
+        "id" : "39",
+        "name" : "Osteoporosis Profile Test",
+        "price" : "Rs 5850 ",
+        "includes" : "The following Tests are included : Ca, P, Alkaline Phosphatase-Total & Bone Fraction, DPD, Osteocalcin, 25 OH Vitamin D, PTH, E2. Comprehensive profile for better bone health"
+        
+        
+    },
+    { 
+        "id" : "40",
+        "name" : "Bone formation markers",
+        "price" : "Rs 6250 ",
+        "includes" : "This profile includes below test parameters - Ostase, Osteocalcin, P1NP, calcitonin, Vit D. (Bone formation markers)"
+        
+        
+    },
+    { 
+        "id" : "41",
+        "name" : "Osteoporosis Profile Test - III",
+        "price" : "Rs 7900",
+        "includes" : "The following Tests are included : Ca, P, Alkaline Phosphatase-Total & Bone Fraction, DPD, Osteocalcin, 25 OH Vitamin D, PTH, E2, P1NP, Beta 2 Crosslaps. Monitoring profile on HRT therapy"
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+
+    { 
+        "id" : "",
+        "name" : "",
+        "price" : "Rs  ",
+        "includes" : ""
+        
+        
+    },
+]
+  
