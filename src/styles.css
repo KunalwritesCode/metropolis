@@ -1231,7 +1231,6 @@ font-size: 12px;
      padding-top: 20px;
      color: #1d9130;
 }
-
 .cards-tp-container-sidebar-right-first-inside button{
     color: white;
     background-color: hsl(192, 100%, 66%);
@@ -1251,6 +1250,7 @@ font-size: 12px;
     
 }
 
+
 .cards-tp-container-sidebar-right-second {
     background-color: #ffffff;
     border: 1px solid white;
@@ -1260,8 +1260,6 @@ font-size: 12px;
     
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
-
-
 .cards-tp-container-sidebar-right-second h6{
     font-size: 15px;
     padding-left: 140px;
@@ -1290,7 +1288,6 @@ font-size: 12px;
     margin-left: 140px;
     margin-bottom: 40px;
 }
-
 .cards-tp-container-sidebar-right-third{
     border: 1px solid white;
     margin-top: 30px;
@@ -1299,7 +1296,6 @@ font-size: 12px;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
     background-color: #ffffff;
 }
-
 .cards-tp-container-sidebar-right-third h6{
     font-size: 15px;
     padding-left: 100px;
@@ -1313,14 +1309,10 @@ font-size: 12px;
     height: 20px;
     margin-left: 20px;
 }
-
-
-
 .cards-tp-container-sidebar-right-third-inside-card{
     display: flex;
     font-size: 12px;
     margin-top: 20px;
-    
 }
 .cards-tp-container-sidebar-right-third-inside-card span{
    padding-left: 140px;
@@ -1344,4 +1336,43 @@ font-size: 12px;
     padding-top: 10px;
     padding-bottom: 10px;
     background-color: #ffefa1;
+}
+.About-container{
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 300px;
+
+}
+
+.About-container-Aboutus-top{
+    display: flex;
+    margin-right: 600px;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.About-container-Aboutus-top a{
+   text-decoration: none;
+   font-size: 13px;
+   color:black;
+}
+.About-container-Aboutus-top-1{
+    display: flex;
+    margin-top: 30px;
+}
+.About-container-Aboutus-top-1 p{
+    font-size: 15px;
+    color: #536a8d;
+    margin-right: 40px;
+    padding-right: 40px;
+    padding-top: 10px;
+}
+.About-image{
+    width: 80%;
+}
+.About-container h1{
+  font-weight: 600;
+  font-size: 28px;
+  color: #31ac45;
+  margin-top: 50px;
 }

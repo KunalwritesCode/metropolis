@@ -17,6 +17,7 @@ import Footer from './components/Footer';
 import Awards from './components/Awards';
 import Truepackages from './components/Truepackages';
 import TPCard from './components/Cards/CardClick/TPCard';
+import About from './components/NavTop/About';
 
 
 import "slick-carousel/slick/slick.css"; 
@@ -65,6 +66,9 @@ const App = () => {
           </Route>
           <Route exact path="/">
             <Awards/>
+          </Route>
+          <Route exact path="/aboutus">
+            <About/>
           </Route>
 
           <Route exact path="/truepackage">
