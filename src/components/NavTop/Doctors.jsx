@@ -56,9 +56,12 @@ const Doctors = () => {
         <div><img src='https://www.metropolisindia.com/newdata/images/doctors.png' /></div>
         <div className='ContactUs-form'>
         <h3>Contact Us</h3>
+        <form>
         <div>
-            <input className='inpu1' type="text" placeholder ="Your Name"  />
-            <select name="pets" id="pet-select">
+            <input class='Doctor-form' type="text" placeholder ="Your Name"  />
+           
+            +<input class="Doctor-form" type="email" placeholder ="email" />
+            <select class="Doctor-form" name="pets" id="pet-select">
                <option value="">Select City</option>
                <option value="dog">Rewa</option>
                <option value="cat">Jaipur</option>
@@ -67,13 +70,11 @@ const Doctors = () => {
                <option value="spider">Chandigarh</option>
                <option value="goldfish">Delhi</option>
             </select>
-        </div>
-        <div>
-        <input type="email" placeholder ="email" />
-        <input type="number" placeholder ="Mobile Number" />
-        </div>
-        <input type="text" placeholder="Write Your Message" />
-        <div><input type="submit" value="Submit" /></div>
+            <input class="Doctor-form" type="number" placeholder ="Mobile Number" />
+            <input class="Doctor-form" type="text" placeholder="Write Your Message" />
+            <input class="Doctor-form" type="submit" value="Submit" />
+            </div>
+        </form>
         </div>
        </div>
     </div>

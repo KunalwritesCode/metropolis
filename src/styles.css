@@ -713,7 +713,7 @@ margin-top: 20px;
 }
 
 .Content-truehealth{
-    background-color:  hsl(0, 37%, 97%);;
+    background-color:  hwb(0 94% 6%);
 }
 
 .Content-truehealth button{
@@ -1644,4 +1644,90 @@ select{
    margin-left: 40px;
    margin-top: 30px;
    
+}
+
+.Partner-container{
+    background-color: rgb(228, 248, 246);
+}
+.Partner-container h1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 40rem;
+    font-weight: 600;
+} 
+
+.Partner-container-top{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 40rem;
+    margin-right: 40rem;
+    margin-bottom: 120px;
+
+}
+
+.Partner-container-top-inside h5{
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+.Partner-container-top-inside p{
+    font-size: 14px;
+    margin-right: 150px;
+}
+.Partner-container-top img{
+    
+     
+}
+.Doctor-form{
+    font-size: 5px;
+    padding: 10px;
+}
+
+.Healthrisk-container{
+    background-color:  hwb(0 94% 6%);
+    padding-bottom: 5rem;
+}
+.Healthrisk-container h2{
+    background-color: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 13rem;
+    margin-right: 11rem;
+    padding-left: 3rem;
+    font-size: 22px;
+}
+.Healthrisk-container-inside{
+    display: flex;
+}
+.Healthrisk-container-inside-card{
+    display: flex;
+    
+    margin-left: 15rem;
+    margin-top: 2rem;
+    
+    border: 1px solid black;
+    padding: 20px;
+    width: 45rem;
+    background-color: #ffffff;
+    border-style: none;
+    border-radius: 20px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+.Healthrisk-container-inside-card img{
+    border: 1px solid green;
+    border-radius: 12px;
+    width: 100px;
+    
+}
+.Healthrisk-container-inside-card h6{
+    font-size: medium;
+    margin-top: 30px;
+    padding-left: 40px;
+    
+}
+
+.Healthrisk-container-inside-card p{
+    padding-left: 40px;
+    font-size: 12px;
+    
 }

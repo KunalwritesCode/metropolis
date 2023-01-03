@@ -19,7 +19,8 @@ import Truepackages from './components/Truepackages';
 import TPCard from './components/Cards/CardClick/TPCard';
 import About from './components/NavTop/About';
 import Doctors from './components/NavTop/Doctors';
-
+import Partner from './components/NavTop/Partner';
+import HealthRisk from './components/bootstrap/Navigations/HealthRisk';
 
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
@@ -73,6 +74,12 @@ const App = () => {
           </Route>
           <Route exact path="/doctors">
             <Doctors/>
+          </Route>
+          <Route exact path="/partners">
+            <Partner />
+          </Route>
+          <Route exact path="/healthrisk">
+            <HealthRisk />
           </Route>
 
           <Route exact path="/truepackage">
