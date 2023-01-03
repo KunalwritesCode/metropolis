@@ -21,11 +21,13 @@ import About from './components/NavTop/About';
 import Doctors from './components/NavTop/Doctors';
 import Partner from './components/NavTop/Partner';
 import HealthRisk from './components/bootstrap/Navigations/HealthRisk';
+import HealthConditions from './components/bootstrap/Navigations/HealthConditions';
 
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
 
 import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 const App = () => {
@@ -80,6 +82,9 @@ const App = () => {
           </Route>
           <Route exact path="/healthrisk">
             <HealthRisk />
+          </Route>
+          <Route exact path="/healthconditions">
+            <HealthConditions />
           </Route>
 
           <Route exact path="/truepackage">

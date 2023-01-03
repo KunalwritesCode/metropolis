@@ -713,7 +713,7 @@ margin-top: 20px;
 }
 
 .Content-truehealth{
-    background-color:  hwb(0 94% 6%);
+    background-color:  #f8f8f8;
 }
 
 .Content-truehealth button{
@@ -1684,15 +1684,16 @@ select{
 }
 
 .Healthrisk-container{
-    background-color:  hwb(0 94% 6%);
+    background-color:  #f8f8f8;
     padding-bottom: 5rem;
 }
 .Healthrisk-container h2{
     background-color: #ffffff;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     margin-left: 13rem;
     margin-right: 11rem;
+    
     padding-left: 3rem;
     font-size: 22px;
 }
@@ -1720,7 +1721,8 @@ select{
     
 }
 .Healthrisk-container-inside-card h6{
-    font-size: medium;
+    font-size: 20px;
+    font-weight: 600;
     margin-top: 30px;
     padding-left: 40px;
     
