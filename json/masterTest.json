@@ -334,218 +334,218 @@
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
+        "id" : "42",
+        "name" : "Testicular Marker Profile",
+        "price" : "Rs 1300 ",
         "includes" : ""
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "43",
+        "name" : "Liver Onco Marker Profile **",
+        "price" : "Rs 1500 ",
+        "includes" : "Includes : AFP, CEA, HCG"
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "44",
+        "name" : "Cancer marker profile (Gall Bladder)**",
+        "price" : "Rs  1600",
+        "includes" : "Includes tese test parameters - Ca 19.9, CEA"
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "45",
+        "name" : "Breast Marker Profile**",
+        "price" : "Rs 1920 ",
+        "includes" : "Includes : CA 15.3, CEA"
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "46",
+        "name" : "Prostate Profile **",
+        "price" : "Rs 2000 ",
+        "includes" : "PSA, Free PSA, Ratio and Acid Phosphatase- Total and Prostatic Fraction"
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "47",
+        "name" : "Cancer marker profile-Ovarian-Comprehensive**",
+        "price" : "Rs 2250 ",
+        "includes" : "Includes tese test parameters - CA125, CEA, AFP, HCG, LDH"
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "48",
+        "name" : "Cancer marker profile (Brain and Pituitary)",
+        "price" : "Rs 3450 ",
+        "includes" : "Includes tese test parameters - NSE, CEA, Prolactin"
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "49",
+        "name" : "Stomach Marker Profile**",
+        "price" : "Rs 3550 ",
+        "includes" : "Includes : CEA, CA19.9, CA72.4"
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "50",
+        "name" : "Pancreatic Marker Profile **",
+        "price" : "Rs 3650 ",
+        "includes" : "This includes : CEA, CA19.9, Gastrin, Insulin"
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "51",
+        "name" : "Thyroid Marker Profile**",
+        "price" : "Rs 3990 ",
+        "includes" : "Includes : Chromogranin A, Calcitonin, CEA"
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "52",
+        "name" : "Cancer marker profile Liver-2**",
+        "price" : "Rs 5750 ",
+        "includes" : "Includes tese test parameters - AFP, CEA, CA 19.9, Chromogranin A"
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "53",
+        "name" : "Cancer marker profile.",
+        "price" : "Rs 5980 ",
+        "includes" : "Includes tese test parameters - CEA, CA19.9, Chromogranin A"
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "54",
+        "name" : "Cancer marker profile (Neuroendocrine tumors)",
+        "price" : "Rs 6200 ",
+        "includes" : "Includes tese test parameters - Chromogranin A, NSE"
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "55",
+        "name" : "Cancer Detection Profile, Male**",
+        "price" : "Rs 7500 ",
+        "includes" : "This Profile includes below test parameters -Liver (AFP), Epithelial (CEA), Pancreas (CA19.9), Breast(CA15.3), Thyroid(Calcitonin,thyroglobulin), Prostate(PSA, fPSA), CBC for leukemia"
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "56",
+        "name" : "Cancer Detection Profile, Female**",
+        "price" : "Rs 9250 ",
+        "includes" : "This profile includes below test parameters - Liver (AFP), Epithelial (CEA), Ovary (HCG, CA125), Pancreas (CA19.9), Breast(CA15.3), Thyroid(Calcitonin,thyroglobulin), Cervical cancer (PAP Smear Reflex HPV-DNA), CBC for leukemia"
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "57",
+        "name" : "BRCA 1 & 2 Somatic Mutation analysis, FFPE Tissue",
+        "price" : "Rs 22000 ",
+        "includes" : "PARP inhibitor therapy"
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "58",
+        "name" : "Thyroid Test",
+        "price" : "Rs 550 ",
+        "includes" : "Thyroid test is done to evaluate the functioning of thyroid gland"
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "59",
+        "name" : "Insulin Test",
+        "price" : "Rs 980 ",
+        "includes" : "Insulin test measures the amount of insulin in your blood"
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "60",
+        "name" : "FSH-LH - Prolactin Testosterone Test",
+        "price" : "Rs 1700 ",
+        "includes" : "An adjunct in the evaluation of menstrual irregularities."
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "61",
+        "name" : "Menopause monitoring profile",
+        "price" : "Rs 2100 ",
+        "includes" : "Tests included are : FSH, E2, Lipid Profile, Calcium, Phosphrous"
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "62",
+        "name" : "AMH Premium Test",
+        "price" : "Rs 2920 ",
+        "includes" : "Help detect various gynecological conditions in females including PCOS, menopause, infertility ."
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "63",
+        "name" : "PCOS Profile Test",
+        "price" : "Rs 3300 ",
+        "includes" : "This profile includes FBS, PPBS, HOMA, Free testosterone, FSH, LH, Prolactin, 17 OHP."
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "64",
+        "name" : "Testosterone Profile Test",
+        "price" : "Rs 3500 ",
+        "includes" : "This profile includes testing for Total and Free Testosterone, SHBG, Albumin, Free androgen Index & bioavailable testosterone"
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "65",
+        "name" : "AMH Supreme Test",
+        "price" : "Rs 4300 ",
+        "includes" : "Help detect various gynecological conditions in females including PCOS, menopause, infertility ."
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "66",
+        "name" : "PCOS Profile - 2 Test",
+        "price" : "Rs 6600 ",
+        "includes" : "This profile includes FBS, PPBS, HOMA, Free testosterone, FSH, LH, Prolactin, 17 OHP, Androstenedione, DHEAS, DHT, Lipid profile-2, T3, T4, TSH)."
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "67",
+        "name" : "PCOS profile - 3 Test",
+        "price" : "Rs 9900 ",
+        "includes" : "The androgen profile is recommended for investigation of hirsutism, polycystic ovarian syndrome (PCOS) and infertility in females, and for the diagnosis and monitoring of congenital adrenal hyperplasia (CAH) in both males and females."
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
+        "id" : "68",
+        "name" : "Post Prandial Blood Sugar Test",
+        "price" : "Rs 90 ",
+        "includes" : "A postprandial glucose test is a blood glucose test that determines the amount of glucose, in the blood after a meal."
         
         
     },

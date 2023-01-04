@@ -22,6 +22,7 @@ import Doctors from './components/NavTop/Doctors';
 import Partner from './components/NavTop/Partner';
 import HealthRisk from './components/bootstrap/Navigations/HealthRisk';
 import HealthConditions from './components/bootstrap/Navigations/HealthConditions';
+import Corporate from './components/NavTop/Corporate';
 
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
@@ -86,6 +87,9 @@ const App = () => {
           <Route exact path="/healthconditions">
             <HealthConditions />
           </Route>
+          <Route exact path="/corporate">
+            <Corporate />
+          </Route>                
 
           <Route exact path="/truepackage">
             <Truepackages />

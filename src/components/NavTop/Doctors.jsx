@@ -56,25 +56,45 @@ const Doctors = () => {
         <div><img src='https://www.metropolisindia.com/newdata/images/doctors.png' /></div>
         <div className='ContactUs-form'>
         <h3>Contact Us</h3>
-        <form>
-        <div>
-            <input class='Doctor-form' type="text" placeholder ="Your Name"  />
-           
-            +<input class="Doctor-form" type="email" placeholder ="email" />
-            <select class="Doctor-form" name="pets" id="pet-select">
-               <option value="">Select City</option>
-               <option value="dog">Rewa</option>
-               <option value="cat">Jaipur</option>
-               <option value="hamster">Gaya</option>
-               <option value="parrot">Satna</option>
-               <option value="spider">Chandigarh</option>
-               <option value="goldfish">Delhi</option>
-            </select>
-            <input class="Doctor-form" type="number" placeholder ="Mobile Number" />
-            <input class="Doctor-form" type="text" placeholder="Write Your Message" />
-            <input class="Doctor-form" type="submit" value="Submit" />
-            </div>
-        </form>
+        <div class="col-lg-5 col-md-12">
+        <div class="ml-4">
+            <form>
+                <div class="row">
+                    <div class="col-md-6 form-group">
+                        <input id="name" type="text" class="form-control" name="name" placeholder="Name" required />
+                    </div>
+                    <div class="col-md-6 form-group">
+                        <select class="form-control" name="city" id="city">
+                            <option value="sc">Select City</option>
+                            <option value="chd">Chandigarh</option>
+                            <option value="be">Bareilly</option>
+                            <option value="amb">Amabala</option>
+                            <option value="ambc">Ambala Cantt</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 form-group">
+                        <input id="email" type="email" class="form-control" name="email" placeholder="Email" required />
+                    </div>
+                    <div class="col-md-6 form-group">
+                        <input id="phone" type="text" class="form-control" name="phone" placeholder="Phone No."
+                            required />
+                    </div>
+
+                </div>
+                <div class="form-group">
+                    <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                </div>
+
+                <div class="text-center">
+                    <button class="btn contact-button btn-success" type="submit">
+                        Submit
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
         </div>
        </div>
     </div>

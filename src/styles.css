@@ -1674,10 +1674,7 @@ select{
     font-size: 14px;
     margin-right: 150px;
 }
-.Partner-container-top img{
-    
-     
-}
+
 .Doctor-form{
     font-size: 5px;
     padding: 10px;
@@ -1732,4 +1729,77 @@ select{
     padding-left: 40px;
     font-size: 12px;
     
+}
+.Corporate-container-top{
+    display: flex;
+    margin-right: 40rem;
+    margin-left: 40rem;
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+    gap: 30px;
+}
+
+.Corporate-container-top-1 h3{
+    font-size: 22px;
+    font-weight: 600;
+}
+.Corporate-container-top-1 p{
+    font-size: 14px;
+    margin-right: 70px;
+    color: grey;
+    margin-top: 10px;
+  
+}
+.Corporate-container-top img{
+    margin-top: 40px;
+}
+
+.Corporate-container-mid{
+    display: flex;
+    margin-right: 40rem;
+    margin-left: 40rem;
+    margin-top: 20rem;
+    margin-bottom: 10rem;
+    gap: 50px;
+}
+.Corporate-container-mid-1{
+    margin-left: 60px;
+}
+
+.Corporate-container-mid-1 h3{
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 50px;
+}
+.Corporate-container-mid-1 p{
+    font-size: 14px;
+    
+    color: grey;
+    margin-top: 10px;
+  
+}
+
+.Corporate-container-bottom{
+    display: flex;
+    margin-right: 40rem;
+    margin-left: 40rem;
+    margin-top: 15rem;
+    margin-bottom: 10rem;
+    gap: 60px;
+}
+
+.Corporate-container-bottom-1 h3{
+    font-size: 22px;
+    font-weight: 600;
+}
+.Corporate-container-bottom-1 p{
+    font-size: 14px;
+    margin-right: 70px;
+    color: grey;
+    margin-top: 10px;
+  
+}
+.Corporate-container-bottom img{
+    margin-top: 20px;
+    width: 45rem;
 }
