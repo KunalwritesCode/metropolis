@@ -550,193 +550,193 @@
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
+        "id" : "69",
+        "name" : "Blood Sugar Fasting Test",
+        "price" : "Rs 90 ",
+        "includes" : "Fasting blood sugar is usually the preliminary test to check for pre-diabetes or diabetes. It is measured after 8 hours of fasting period. Diabetes is a grave health condition and if left unattended can damage eyes, kidneys, nerves, and blood vessels."
+        
+        
+    },
+    { 
+        "id" : "70",
+        "name" : "Random, Glucose",
+        "price" : "Rs 90 ",
         "includes" : ""
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
+        "id" : "71",
+        "name" : "HbA1C Test or Glycated Haemoglobin Test",
+        "price" : "Rs 590 ",
+        "includes" : "Glycated Haemoglobin Test is done to diagnose type 1 & type 2 diabetes."
+        
+        
+    },
+    { 
+        "id" : "72",
+        "name" : "Diabetic Profile Test",
+        "price" : "Rs 925 ",
+        "includes" : "Tests included are : FBS, Cholesterol, HbA1C, Microalbumin/ Creatinine ratio"
+        
+        
+    },
+    { 
+        "id" : "73",
+        "name" : "C-Peptide Fasting Test",
+        "price" : "Rs 1300 ",
+        "includes" : "C-Peptide Test measures the amount of c peptide in your blood."
+        
+        
+    },
+    { 
+        "id" : "74",
+        "name" : "Insulin AntibodyType I & II diabetesserum**",
+        "price" : "Rs 2300 ",
         "includes" : ""
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
+        "id" : "75",
+        "name" : "Diabetes Profile Test",
+        "price" : "Rs 2850 ",
         "includes" : ""
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
+        "id" : "76",
+        "name" : "Diabetes Assessment Test",
+        "price" : "Rs 2850 ",
+        "includes" : "Tests included are -D3 hydroxybutarate, Creatinine, Microalbumin- creat ratio, ferritin, lipid profile-2, CBC, FBS, PP"
+        
+        
+    },
+    { 
+        "id" : "77",
+        "name" : "Diabetes Risk Assessment Test",
+        "price" : "Rs 2900 ",
+        "includes" : "Tests included are : HOMA index (FBS with fasting insulin), Adiponectin, HBA1c"
+        
+        
+    },
+    { 
+        "id" : "78",
+        "name" : "Diabetes type I profile**",
+        "price" : "Rs 9900 ",
+        "includes" : "Tests included are : GAD abs, Islet cell antibody (ICA abs), IA2, Insulin antibody total, Insulin fasting, C peptide"
+        
+        
+    },
+    { 
+        "id" : "79",
+        "name" : "Freedom from diabetes package",
+        "price" : "Rs 10590 ",
+        "includes" : "Fasting blood sugar is usually the preliminary test to check for pre-diabetes or diabetes. It is measured after 8 hours of fasting period. Diabetes is a grave health condition and if left unattended can damage eyes, kidneys, nerves, and blood vessels."
+        
+        
+    },
+    { 
+        "id" : "80",
+        "name" : "Blood Sugar Fasting Test",
+        "price" : "Rs 90 ",
+        "includes" : "Fasting blood sugar is usually the preliminary test to check for pre-diabetes or diabetes. It is measured after 8 hours of fasting period. Diabetes is a grave health condition and if left unattended can damage eyes, kidneys, nerves, and blood vessels."
+        
+        
+    },
+    { 
+        "id" : "81",
+        "name" : "CBC Test",
+        "price" : "Rs 310 ",
+        "includes" : "CBC Haemogram serves as a broad screen panel that examines for the presence of any infection or disease in the body. Haemogram tests 3 major components of the blood which are Red Blood Cells (RBC) White Blood Cells, (WBC) and platelets."
+        
+        
+    },
+    { 
+        "id" : "82",
+        "name" : "Lipid Profile Test",
+        "price" : "Rs 800 ",
+        "includes" : "A complete cholesterol test called Lipid Profile is a blood test done to measure the amount of good & bad cholesterol & triglycerides in your body. It requires 12-14 hours of fasting period."
+        
+        
+    },
+    { 
+        "id" : "83",
+        "name" : "Lipid Profile - Maxi*",
+        "price" : "Rs 1400 ",
+        "includes" : "Tests included are : Cholesterol-Total, HDL, Non HDL, LDL, VLDL and Triglycerides, Lp(a), Apolipoproteins B/A1 12-14 Hrs Fasting Required"
+        
+        
+    },
+    { 
+        "id" : "84",
+        "name" : "Helicobacter Pylori Antigen detection Stool**",
+        "price" : "Rs 1500 ",
         "includes" : ""
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
+        "id" : "85",
+        "name" : "Anaemia Profile - Macrocytic Test",
+        "price" : "Rs 1900 ",
         "includes" : ""
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
+        "id" : "86",
+        "name" : "Anaemia Profile - Microcytic Hypochromic Test",
+        "price" : "Rs 1900 ",
         "includes" : ""
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
+        "id" : "87",
+        "name" : "Anaemia Profile Mini Test",
+        "price" : "Rs 1900 ",
         "includes" : ""
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
+        "id" : "88",
+        "name" : "Anaemia Workup Profile Test",
+        "price" : "Rs 2100 ",
         "includes" : ""
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
+        "id" : "89",
+        "name" : "Anaemia Profile-Pernicious Test",
+        "price" : "Rs 3565 ",
         "includes" : ""
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
+        "id" : "90",
+        "name" : "Anaemia Profile-Haemolytic Type Test",
+        "price" : "Rs 3680 ",
         "includes" : ""
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
+        "id" : "91",
+        "name" : "Anaemia Profile-Nutritional Test",
+        "price" : "Rs 3750 ",
         "includes" : ""
         
         
     },
     { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
-        
-        
-    },
-    { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
-        
-        
-    },
-    { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
-        
-        
-    },
-    { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
-        
-        
-    },
-    { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
-        
-        
-    },
-    { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
-        
-        
-    },
-    { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
-        
-        
-    },
-    { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
-        
-        
-    },
-    { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
-        
-        
-    },
-    { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
-        
-        
-    },
-    { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
-        
-        
-    },
-    { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
-        "includes" : ""
-        
-        
-    },
-    { 
-        "id" : "",
-        "name" : "",
-        "price" : "Rs  ",
+        "id" : "92",
+        "name" : "Anemia Profile Test",
+        "price" : "Rs 7750 ",
         "includes" : ""
         
         

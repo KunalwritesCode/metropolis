@@ -1632,17 +1632,17 @@ select{
 .ContactUs-form {
     border: 1px solid #ccccccfd;
     margin-top: 0px;
-    margin-left: 35px;
+    margin-left: 20rem;
     border-radius: 9px;
     width: 60%;
-    height: 250px;
+    height: 290px;
     background-color: #ffffff;
 }
 .ContactUs-form h3{
    font-weight: 600;
    font-size: 20px;
    margin-left: 40px;
-   margin-top: 30px;
+   margin-top: 10px;
    
 }
 
@@ -1802,4 +1802,7 @@ select{
 .Corporate-container-bottom img{
     margin-top: 20px;
     width: 45rem;
+}
+.Form-doc {
+    border-style: none !important;
 }

@@ -56,7 +56,7 @@ const Doctors = () => {
         <div><img src='https://www.metropolisindia.com/newdata/images/doctors.png' /></div>
         <div className='ContactUs-form'>
         <h3>Contact Us</h3>
-        <div class="col-lg-5 col-md-12">
+        <div class="col-lg- col-md-12 Doctor-form" >
         <div class="ml-4">
             <form>
                 <div class="row">
@@ -64,7 +64,7 @@ const Doctors = () => {
                         <input id="name" type="text" class="form-control" name="name" placeholder="Name" required />
                     </div>
                     <div class="col-md-6 form-group">
-                        <select class="form-control" name="city" id="city">
+                        <select class="form-control Form-doc" name="city" id="city">
                             <option value="sc">Select City</option>
                             <option value="chd">Chandigarh</option>
                             <option value="be">Bareilly</option>
