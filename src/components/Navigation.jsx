@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 import PlaceIcon from '@mui/icons-material/Place';
 import SimCardDownloadIcon from '@mui/icons-material/SimCardDownload';
 import PersonOutlineIcon from '@mui/icons-material/PersonOutline';
@@ -10,19 +11,23 @@ const Navigation = () => {
     <div className='Upper-section-navigation'>
 
     <div className='Upper-section-navigation-button1'>
-    <button className='Upper-section-navigation-buttons'>Health Risk</button>
+    <Link  to="/healthrisk" className='Upper-section-navigation-buttons' >Health Risk</Link>
+    <button className='Upper-section-navigation-buttons'></button>
      </div>
     
     <div className='Upper-section-navigation-button2'>
-    <button className='Upper-section-navigation-buttons'>Health Conditions</button>
+    <Link to="/healtconditions" className='Upper-section-navigation-buttons' >Health Conditions</Link>
+    <button className='Upper-section-navigation-buttons'></button>
      </div>
     
     <div className='Upper-section-navigation-button3'>
-    <button className='Upper-section-navigation-buttons'>Blood Test</button>
+    <Link  to="/healthrisk" className='Upper-section-navigation-buttons' >Blood Test</Link>
+    <button className='Upper-section-navigation-buttons'></button>
      </div>
    
     <div className='Upper-section-navigation-button4'>
-    <button className='Upper-section-navigation-buttons'>Truehealth Packages</button>
+    <Link  to="/healthrisk" className='Upper-section-navigation-buttons' >Truehealth Packages</Link>
+    <button className='Upper-section-navigation-buttons'></button>
      </div>
    
     <img className='Upper-section-navigation-house-image' src='https://www.metropolisindia.com/newdata/images/book_home_visit.svg' alt='#' />

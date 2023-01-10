@@ -4,6 +4,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
+}
+.Body{
+    max-width: 100vw;
 }
 
 .Upper-section-navbar{
@@ -131,6 +135,8 @@
 .Upper-section-navigation-buttons{
     border-style: hidden;
     font-size: 13px;
+    text-decoration: none;
+    color: black;
 }
 
 
@@ -167,7 +173,7 @@
 
  }
 
- .Mid-section{
+.Mid-section{
     display: flex;
     margin-top: 60px;
     margin-left: 40px;
@@ -208,7 +214,9 @@
  .Mid-section-button5{
     font-size: small;
     width: 100px;
+    text-decoration: none;
     margin-left: 30px;
+    padding: 1rem;
     border-style: solid;
     background-color: white;
     color:black;
@@ -218,6 +226,7 @@
  .Mid-section-button5:hover{
     color: white;
     background-color: #008d44;
+    text-decoration: none;
  }
  .Mid-section-para{
      font-size: medium;
@@ -226,22 +235,22 @@
 }
 
 .package-section-card-1{
-    gap: 15px;
+    
     align-items: center;
-    border: 2px solid #ebebeb;
+    border: 1px solid #ebebeb;
     border-radius: 20px;
-    border-style: inset;
+    border-style: none;
     overflow: hidden;
     padding: 10px;
     margin-top: 40px;
-    margin-left: 30px;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
     
 }
 
 
 
 .package-section-card-1:hover{
-    transform: scale(1.05);
+    transform: scale(1.01);
 }
 
 .package-section-Card-image{
@@ -255,8 +264,8 @@
 }
 
 .package-section-card-1 h3{
-margin-left: 30px;
-margin-top: 20px;
+    margin-left: 30px;
+    margin-top: 20px;
 }
 
 .package-card-section-butoon-one{
@@ -446,8 +455,8 @@ margin-top: 20px;
 
 }
 .conditions-section-Card h3{
-    margin-left: 75px;
-    margin-top: 20px;
+    margin-left: 8rem;
+    margin-top: 2rem;
 }
 
 .News-Cards{
@@ -521,12 +530,12 @@ margin-top: 20px;
 .Review-Section-Head h1{
     align-items: center;
     justify-content: center;
-    margin-left: 700px;
+    margin-left: 77rem;
     margin-bottom: 40px;
 }
 .Review-Section-Head p{
      font-size: large;
-     margin-left: 650px;
+     margin-left: 70rem;
      color: gray;
 }
 
@@ -538,19 +547,20 @@ margin-top: 20px;
 .Review-Card-Icon{
     display: flex;
     margin-top: 40px;
-    margin-left: 180px;
+    margin-left: 24rem;
     margin-bottom: 40px;
     
 }
 
 .Review-Card-Para{
     font-size: medium;
+    padding-left: 8rem;
     
 }
 
 .Review-Card-Head{
-    margin-top: 40px;
-    margin-left: 170px;
+    margin-top: 3rem;
+    margin-left: 22rem;
 }
 
 .achievements-section{
@@ -707,9 +717,49 @@ margin-top: 20px;
     margin-bottom: 40px;
 }
 .Awards-Section-Card {
-    
     font-size: medium;
-    
+}
+
+@media only screen and (max-width:600px)
+ {
+   .Upper-section-navbar{
+
+    display: none;
+    position: absolute;
+    top: 3.7rem;
+    left: 0;
+    width: 100%;
+    text-align: center;
+
+   }
+
+   .Upper-section-green-section div{
+     display: none;
+    }
+
+   .Upper-section-green-section img{
+    justify-content: center;
+    align-items: center;
+    margin-left: 6rem;
+   }
+
+   .Upper-section-navigation{
+    display: none;
+   }
+
+   .Mid-section button{
+     display: none;
+   }
+   .conditions-section {
+    display: block;
+    }
+    .conditions-section-Card{
+        margin-top: 30px;
+    }
+    .Whyus-container-start{
+        display: block;
+    }
+   
 }
 
 .Content-truehealth{
@@ -1805,4 +1855,80 @@ select{
 }
 .Form-doc {
     border-style: none !important;
+}
+.homevisit-container{
+    margin-left: 20rem;
+    margin-right: 20rem;
+}
+.homevisit-container-top{
+    margin-left: 40rem;
+    margin-right: 40rem;
+    margin-top: 15rem;
+}
+.homevisit-container-top h1{
+    font-weight: 600;
+    color: #31ac45;
+    padding-left: 30rem;
+    margin-bottom: 4rem;
+}
+.homevisit-container-top p{
+    font-size: 14px;
+    margin-top: 2rem;
+    color: #536a8d;
+}
+.homevisit-container-top h3{
+    font-size: 20px;
+    padding-left: 13rem;
+    margin-top: 6rem;
+}
+.homevisit-container-top-inside{
+    display: flex;
+    margin-top: 4rem;
+   
+}
+.homevisit-container-top-inside h6{
+     font-size: 15px;
+     font-weight: 600;
+}
+.homevisit-container-top-inside-1 p{
+    margin-right: 9rem;
+}
+.homevisit-container-top-inside-2{
+   margin-left: 5rem;
+}
+.homevisit-container-top-inside-4{
+    margin-left: 35rem;
+}
+.homevisit-container-mid{
+    margin-left: 40rem;
+    margin-right: 40rem;
+    margin-top: 15rem;
+}
+.homevisit-container-mid h2{
+    font-weight: 700;
+    font-size: 28px;
+    color: #31ac45;
+}
+
+.homevisit-container-mid-inside{
+    display: flex;
+    margin-top: 6rem;
+    gap: 9rem;
+}
+.homevisit-container-mid-inside h5{
+    font-size: 18px;
+    margin-top: 30px;
+}
+.homevisit-container-mid-inside p{
+    font-size: 13px;
+    margin-top: 10px;
+}
+.homevisit-container-review{
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+    background-color: hwb(203 87% 1%);
+}
+
+.homevisit-container-review h1{
+    
 }

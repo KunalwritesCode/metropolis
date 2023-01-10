@@ -16,7 +16,7 @@ export default class ReviewCarousel extends Component {
       slidesToShow: 3,
       slidesToScroll: 1,
       autoplay: true,
-      autoplaySpeed: 1000,
+      autoplaySpeed: 2000,
       pauseOnHover: true
     };
     return (

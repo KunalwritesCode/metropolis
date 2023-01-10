@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 import CardCarousel from './bootstrap/CardCarousel';
 
 const Package = () => {
@@ -10,12 +11,12 @@ const Package = () => {
       <button className='Mid-section-button2'>Male</button>
       <button className='Mid-section-button3'>Female</button>
       <button className='Mid-section-button4'>Couple</button>
-      <button className='Mid-section-button5'>View More</button>
+      <Link className='Mid-section-button5'  to={"/truepackage"}> View More</Link>
     </div>
     <div className='Mid-section-para'>
         <p>Choose from our wide range of TruHealth Package and Health Checkups</p>
     </div>
-    <div><CardCarousel /></div>
+    <div className='Cardcaraousel'><CardCarousel /></div>
     
     
     </div>
