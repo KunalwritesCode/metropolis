@@ -9,7 +9,7 @@ import { Button } from 'react-bootstrap';
 const Top = () => {
   return (
     <div className='Upper-section-green-section'>
-      <img className='Upper-section-green-section-image' src='https://www.metropolisindia.com/newdata/images/logo.svg' alt='#' />
+     <a href='/'><img className='Upper-section-green-section-image' src='https://i.ibb.co/Jvsb5KF/Achinlogo.png' alt='#' /></a> 
 
       <div className='Upper-section-green-section-input'>
       <Button id='Upper-section-green-section-location'>Mumbai</Button>

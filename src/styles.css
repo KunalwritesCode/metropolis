@@ -31,15 +31,17 @@
 }
 
 .Upper-section-navbar a:hover {
-    color: #008d44;
+    color: #8E3200;
   }
 
 .Upper-section-green-section{
     display: flex;
-    background-color:#008d44;
+    background-color:#8E3200;
 }
 .Upper-section-green-section-image{
     padding: 5px 20px 0px 40px;
+    width: 20rem;
+    height: 8rem;
 }
 .Upper-section-green-section-input{
     padding: 10px;
@@ -51,8 +53,9 @@
     
 }
 #Upper-section-green-section-location{
-    background-color: #00833f;
-    border-radius: 20px;
+    background-color: #8E3200;
+    padding-right: 10px;
+    border-radius: 10px;
     color: white;
     width: 74px;
     border-style: hidden;
@@ -98,7 +101,7 @@
 }
 
 #Upper-section-green-section-dropdown-button{
-   background-color: #008d44;
+   background-color: #8E3200;
    color: white;
    margin-left: 100px;
    margin-top: 20px;
@@ -110,6 +113,32 @@
    font-size: large;
 }
 
+#Upper-section-green-section-dropdown-button-nav{
+   background-color: white;
+   color: black;
+   margin-left: 0px;
+   margin-top: 0px;
+   border-color: white;
+   border-radius: 20px;
+   padding: 4px;
+   border-style: hidden;
+   cursor: pointer;
+   font-size: 14px;
+}
+.drop-section-button{
+     font-size: 10px;
+    width: 9rem;
+    margin-bottom: 0.5rem;
+    margin-left: 0.5rem;
+    margin-top: .5rem;
+    border-style: solid;
+    background-color: white;
+    color:#77c9ff;
+    border-radius: 5px;
+  
+    border-color: #5dccff;
+    padding: 5px 20px ;
+}
 .Upper-section-navigation{
     display: flex;
     align-items: center;
@@ -137,6 +166,7 @@
     font-size: 13px;
     text-decoration: none;
     color: black;
+    
 }
 
 
@@ -184,7 +214,7 @@
     width: 70px;
     border-radius: 10px;
     margin-left: 20px;
-    background-color: #008d44;
+    background-color: #8E3200;
     color: white;
     border-style: hidden;
  }
@@ -221,11 +251,11 @@
     background-color: white;
     color:black;
     border-radius: 10px;
-    border-color: #008d44;
+    border-color: #8E3200;
  }
  .Mid-section-button5:hover{
     color: white;
-    background-color: #008d44;
+    background-color: #8E3200;
     text-decoration: none;
  }
  .Mid-section-para{
@@ -271,7 +301,7 @@
 .package-card-section-butoon-one{
     margin-left: 115px;
     margin-top: 20px;
-    background-color: #008d44;
+    background-color: #8E3200;
     color: white;
     font-size: small;
     width: 40px;
@@ -305,7 +335,7 @@
 .popular-card-section-butoon-one{
     margin-left: 115px;
    
-    background-color: #008d44;
+    background-color: #8E3200;
     color: white;
     font-size: small;
     width: 40px;
@@ -332,7 +362,7 @@
 .popular-section-card-button{
     margin-left: 225px;
    
-    background-color: #008d44;
+    background-color: #8E3200;
     color: white;
     font-size: small;
     width: 50px;
@@ -356,7 +386,7 @@
     padding: 5px 80px;
     margin-left: 60px;
     margin-top: 5px;
-    background-color: #5ad36e;
+    background-color: #8E3200;
     color: white;
     border-radius: 10px;
     border-style: hidden;
@@ -465,7 +495,7 @@
 
 .News-image{
    
-    border: 3px ridge green;
+    border: 3px ridge #8E3200;
     border-right: hidden;
     border-top: hidden;
     margin: 20px;
@@ -478,7 +508,7 @@
     margin-top: 20px;
 }
 .News-Card-Link{
-   color: #008d44;
+   color: #8E3200;
    text-decoration: none;
     
     
@@ -512,7 +542,7 @@
     margin-left: 0px;
     margin-top: 10px;
     margin-bottom: 20px;
-    background-color: #5ad36e;
+    background-color: #8E3200;
     color: white;
     border-radius: 10px;
     border-style: hidden;
@@ -530,12 +560,12 @@
 .Review-Section-Head h1{
     align-items: center;
     justify-content: center;
-    margin-left: 77rem;
+    margin-left: 85rem;
     margin-bottom: 40px;
 }
 .Review-Section-Head p{
      font-size: large;
-     margin-left: 70rem;
+     margin-left: 77rem;
      color: gray;
 }
 
@@ -664,7 +694,7 @@
 
 .footer-section-subcribe-follow-icon{
        margin-right: 20px;
-       background-color: #008d44;
+       background-color: #8E3200;
        color: white;
        border-radius: 10px;
        padding: 5px;
@@ -676,7 +706,7 @@
 .footer-section-subcribe-Newsletter button{
     font-size: 15px;
     padding: 8px;
-    background-color: #008d44;
+    background-color: #8E3200;
     color: white;
     border-style: hidden;
     margin-left: 10px;
@@ -701,11 +731,12 @@
 .Award-Section-Head h1{
    
     margin-bottom: 20px;
+    padding-left: 30rem;
 }
 
 .Award-Section-Head p{
     font-size: medium;
-        
+        padding-left: 10rem;
 }
 
 .Awards-Section-Card{
@@ -741,6 +772,7 @@
     justify-content: center;
     align-items: center;
     margin-left: 6rem;
+   
    }
 
    .Upper-section-navigation{
@@ -831,6 +863,7 @@
 
 .Content-truehealth-Container-Card h1{
        padding-left: 18%;
+       
 }
 
 .truehealth-Container-Card-1-para{
@@ -860,10 +893,12 @@
     
 }
 .truehealth-Container-Card-1 h2{
+    text-decoration: none;
     padding-left: 10px;
     margin-top: 20px;
     color: #5ad36e;
     font-weight: 600;
+    
 }
 .truehealth-Container-Card-1 h5{
     padding-left: 10px;
@@ -947,7 +982,7 @@
 .truehealth-Container-Whyus-container-inside h2{
     font-weight: 600;
     font-size: 28px;
-    color: #35e753;
+    color: #8E3200;
     padding-left: 30%;
     padding-top: 60px;
 }
@@ -1120,9 +1155,9 @@ font-size: 12px;
        margin-bottom: 30px;
        padding: 3px;
        background-color: #fffefe;
-       color: #00984a;
+       color: #8E3200;
        border-style: solid;
-       border-color: #00984a;
+       border-color: #8E3200;
        border-radius: 5px;
        width: 15rem
     
@@ -1204,9 +1239,9 @@ font-size: 12px;
     margin-bottom: 30px;
     padding: 3px;
     background-color: #fffefe;
-    color: #00984a;
+    color: #8E3200;
     border-style: solid;
-    border-color: #00984a;
+    border-color: #8E3200;
     border-radius: 5px;
     width: 15rem
 }
@@ -1256,7 +1291,7 @@ font-size: 12px;
 
 
 .cards-tp-container-sidebar-right-first-inside{
-    border: 2px solid #00984a;
+    border: 2px solid #8E3200;
     margin-left: 30px;
     
     padding-left: 90px;
@@ -1264,7 +1299,7 @@ font-size: 12px;
     background-color: #ffffff;
     border: 3px solid white;
     border-radius: 8px;
-    border-color: #31ac45;
+    border-color: #8E3200;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
     height: 150px;
     width: 450px;
@@ -1279,7 +1314,7 @@ font-size: 12px;
      font-size: 18px;
      padding-left: 100px;
      padding-top: 20px;
-     color: #1d9130;
+     color: #8E3200;
 }
 .cards-tp-container-sidebar-right-first-inside button{
     color: white;
@@ -1330,7 +1365,7 @@ font-size: 12px;
 }
 .cards-tp-container-sidebar-right-second button{
     color: white;
-    background-color: #00984a;
+    background-color: #8E3200;
     border-radius: 5px;
     border-style: hidden;
     font-size: 15px;
@@ -1762,7 +1797,7 @@ select{
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
 }
 .Healthrisk-container-inside-card img{
-    border: 1px solid green;
+    border: 1px solid #8E3200;
     border-radius: 12px;
     width: 100px;
     
@@ -1867,7 +1902,7 @@ select{
 }
 .homevisit-container-top h1{
     font-weight: 600;
-    color: #31ac45;
+    color: #8E3200;
     padding-left: 30rem;
     margin-bottom: 4rem;
 }
@@ -1907,7 +1942,7 @@ select{
 .homevisit-container-mid h2{
     font-weight: 700;
     font-size: 28px;
-    color: #31ac45;
+    color: #8E3200;
 }
 
 .homevisit-container-mid-inside{
@@ -1929,6 +1964,84 @@ select{
     background-color: hwb(203 87% 1%);
 }
 
-.homevisit-container-review h1{
+.Heart-container-top{
+    margin-left: 30rem;
+    margin-right: 30rem;
+    display: flex;
+    margin-top: 7rem;
+}
+.Heart-container-top img{
+    border: 1px solid #8E3200;
+    border-radius: 12px;
+    padding: 1rem 3rem;
+}
+.Heart-container-top h2{
+    margin-left: 4rem;
+    font-weight: 400;
+    font-size: 22px;
+}
+.Heart-container-top p{
+    margin-left: 4rem;
+    font-size: 14px;
+    margin-top: 1rem;
+}
+.Heart-container-mid{
+    margin-left: 30rem;
+    margin-right: 30rem;
+    margin-top: 5rem;
+}
+.Heart-container-mid-1 p{
+   font-size: 18px;
+}
+.Heart-container-mid-2{
+    margin-top: 4rem;
+}
+
+.Heart-container-mid-2-inside{
+    display: flex;
+    gap: 4rem;
+}
+.Heart-container-mid-2-inside-card{
+    margin-top: 3rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    background-color: #ffffff;
+    border: 5px solid white;
+    border-radius: 4px;
+      box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+.Heart-container-mid-2-inside-card h3{
+    color: #8E3200;
+    font-weight: 400;
     
+    margin-bottom: 8rem;
+    font-size: 20px;
+    
+}
+.Heart-container-mid-2-inside-card span{
+    font-size: 18px;
+    
+}
+.Heart-container-mid-2-inside-card p{
+    font-size: 12px;
+    margin-top: 2rem;
+}
+.Heart-container-mid-2-inside-card button{
+    font-size: medium;
+    width: 32rem;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+    border-style: solid;
+    background-color: white;
+    color:#77c9ff;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #5dccff;
+    padding: 5px 20px ;
+    
+}
+.Heart-container-mid-2-inside-card button:hover{
+    background-color: #5dccff;
+    color: white;
 }

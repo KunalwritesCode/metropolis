@@ -6,7 +6,7 @@ export default class Rewards extends Component {
     const settings = {
       dots: true,
       infinite: true,
-      speed: 500,
+      speed: 2000,
       slidesToShow: 4,
       slidesToScroll: 3,
       autoplay: true,

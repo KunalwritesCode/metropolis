@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { Link } from "react-router-dom";
 import Slider from "react-slick";
 import Whywe from "./Whywe";
 
@@ -159,7 +160,7 @@ export default class Truepackages extends Component {
                </div>
                <div className="truehealth-Container-Card-1">
                     <img className="cards-picture" src="https://www.metropolisindia.com/newdata/images/1663764671_Screening_(500x500).png" />
-                    <h2>TrueHealth Screen</h2>
+                    <Link to="/truepackage/Card"><h2>TrueHealth Screen</h2></Link>
                     <h5>Rs 499</h5>
                     <p className="truehealth-Container-Card-1-para-inside">A screening package which covers vital tests like HbA1C for diabetes, TSH for thyroid......</p>
 

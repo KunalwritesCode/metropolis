@@ -4,30 +4,33 @@ import PlaceIcon from '@mui/icons-material/Place';
 import SimCardDownloadIcon from '@mui/icons-material/SimCardDownload';
 import PersonOutlineIcon from '@mui/icons-material/PersonOutline';
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
-
+import Healthrisk from './Megamenu/Healthrisk';
+import HealthConsitions from './Megamenu/HealthConditionsdrop';
+import Package from './Megamenu/Package';
+import Blood from './Megamenu/Blood';
 
 const Navigation = () => {
   return (
     <div className='Upper-section-navigation'>
 
     <div className='Upper-section-navigation-button1'>
-    <Link  to="/healthrisk" className='Upper-section-navigation-buttons' >Health Risk</Link>
-    <button className='Upper-section-navigation-buttons'></button>
+    <Healthrisk />
+    
      </div>
     
     <div className='Upper-section-navigation-button2'>
-    <Link to="/healtconditions" className='Upper-section-navigation-buttons' >Health Conditions</Link>
-    <button className='Upper-section-navigation-buttons'></button>
+    <HealthConsitions />
+    
      </div>
     
     <div className='Upper-section-navigation-button3'>
-    <Link  to="/healthrisk" className='Upper-section-navigation-buttons' >Blood Test</Link>
-    <button className='Upper-section-navigation-buttons'></button>
+    <Blood />
+    
      </div>
    
     <div className='Upper-section-navigation-button4'>
-    <Link  to="/healthrisk" className='Upper-section-navigation-buttons' >Truehealth Packages</Link>
-    <button className='Upper-section-navigation-buttons'></button>
+    <Package />
+    
      </div>
    
     <img className='Upper-section-navigation-house-image' src='https://www.metropolisindia.com/newdata/images/book_home_visit.svg' alt='#' />

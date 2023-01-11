@@ -5,7 +5,7 @@ const Awards = () => {
   return (
     <div>
        <div className='Award-Section-Head'>
-        <h1 style={{ PaddingLeft: '80px'}}>Awards and Accolades</h1>
+        <h1 >Awards and Accolades</h1>
         <div>
         <p>Metropolis has been awarded and appreciated by several brands and institutions</p>
         </div>

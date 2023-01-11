@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter as Routes, Route,  } from "react-router-dom";
+import { BrowserRouter as Routes, Route,Switch  } from "react-router-dom";
 import NavBar from './components/NavBar';
 import Top from './components/Top'
 import Navigation from './components/Navigation';
@@ -16,6 +16,8 @@ import HealthRisk from './components/bootstrap/Navigations/HealthRisk';
 import HealthConditions from './components/bootstrap/Navigations/HealthConditions';
 import Corporate from './components/NavTop/Corporate';
 import HomeVisit from './components/NavTop/HomeVisit';
+import HeartTest from './components/HeartTest';
+import Alcoholism from './components/bootstrap/Alcoholism';
 
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
@@ -31,7 +33,7 @@ const App = () => {
         <NavBar />
         <Top />
         <Navigation />
-        <Routes>
+        <Switch>
         
         
           <Route exact path="/">
@@ -55,7 +57,6 @@ const App = () => {
           <Route exact path="/corporate">
             <Corporate />
           </Route>                
-
           <Route exact path="/truepackage">
             <Truepackages />
           </Route>
@@ -66,12 +67,25 @@ const App = () => {
           <Route exact path="/homevisit">
             <HomeVisit />
           </Route>
-        
+
+          <Route exact path="/healthrisk/viewall">
+            <HealthRisk />
+          </Route>
+          <Route exact path="/healthrisk/heart">
+            <HeartTest />
+          </Route>
+          <Route exact path="/healthconditions/viewall">
+            <HealthConditions />
+          </Route>
+          <Route exact path="/healthconditions/alcoholism">
+            <Alcoholism />
+          </Route>
+          
         
          
-    
+          </Switch>
         <Footer />
-        </Routes>
+        
     </div>
   )
 }

@@ -6,7 +6,7 @@ function Banner() {
         <Carousel.Item interval={1000}>
           <img
             className="d-block w-100"
-            src="https://www.metropolisindia.com/bannerimages/Metropolis-web-banner-3-with-text.png"
+            src="https://www.metropolisindia.com/newdata/images/bannerimages/Metropolis-web-banner-3-with-text.png"
             alt="First slide"
           />
          
@@ -14,7 +14,7 @@ function Banner() {
         <Carousel.Item interval={500}>
           <img
             className="d-block w-100"
-            src="https://www.metropolisindia.com/bannerimages/Metropolis-web-banner-7-with-text.png"
+            src="https://www.metropolisindia.com/newdata/images/bannerimages/Desktop_Home%20Page_Banner_New_2-Invest-in-your-health.png.png"
             alt="Second slide"
           />
         
@@ -22,7 +22,7 @@ function Banner() {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="https://www.metropolisindia.com/bannerimages/Metropolis-web-banner-1-with-text.png"
+            src="https://www.metropolisindia.com/newdata/images/bannerimages/Metropolis-web-banner-2-with-text.png"
             alt="Third slide"
           />
          
