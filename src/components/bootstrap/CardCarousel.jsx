@@ -48,7 +48,7 @@ export default class CardCarousel extends Component {
         
           <div className="package-section-card-1">
           
-            <img className="package-section-Card-image" src="https://www.metropolisindia.com/newdata/images/1663764671_Screening_(500x500).png" alt="#" />
+            <a href="/truepackage/Card"><img className="package-section-Card-image" src="https://www.metropolisindia.com/newdata/images/1663764671_Screening_(500x500).png" alt="#" /></a>
             <div className="package-section-card-1-head"> 
             <h3>Truhealth Screen</h3>
             <button className="package-card-section-butoon-one" >0<StarIcon /> </button>
@@ -64,7 +64,7 @@ export default class CardCarousel extends Component {
             
           <div className="package-section-card-1">
           
-            <img className="package-section-Card-image" src="https://www.metropolisindia.com/newdata/images/1609946752_500x500_2_01.jpg" alt="#" />
+            <a href="/truepackage/Card"><img className="package-section-Card-image" src="https://www.metropolisindia.com/newdata/images/1609946752_500x500_2_01.jpg" alt="#" /></a>
             <div className="package-section-card-1-head">
             <h3>Truhealth Plus</h3>
             <button className="package-card-section-butoon-one">
@@ -109,7 +109,7 @@ export default class CardCarousel extends Component {
            <button className="package-section-card-1-Cart-button">Add to Cart</button>
           </div>
           <div className="package-section-card-1">
-            <img className="package-section-Card-image" src="https://www.metropolisindia.com/newdata/images/1609946892_500x500_04.jpg" alt="#" />
+            <a href="/truepackage/Card"><img className="package-section-Card-image" src="https://www.metropolisindia.com/newdata/images/1609946892_500x500_04.jpg" alt="#" /></a>
             <div className="package-section-card-1-head">
             <h3>Truhealth Screen</h3>
             <button className="package-card-section-butoon-one">0<StarIcon /> </button>
@@ -123,7 +123,7 @@ export default class CardCarousel extends Component {
           </div>
           
           <div className="package-section-card-1">
-            <img className="package-section-Card-image" src="https://www.metropolisindia.com/newdata/images/1609946875_500x500_06.jpg" alt="#" />
+            <a href="/truepackage/Card"><img className="package-section-Card-image" src="https://www.metropolisindia.com/newdata/images/1609946875_500x500_06.jpg" alt="#" /></a>
             <div className="package-section-card-1-head">
             <h3>Truhealth Screen</h3>
             <button className="package-card-section-butoon-one">0<StarIcon /> </button>

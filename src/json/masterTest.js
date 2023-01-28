@@ -1,4 +1,4 @@
-[
+export const masterTestdata = [ 
     { 
         "id" : "1",
         "name" : "Cardiac Test",
@@ -74,9 +74,9 @@
         "includes" : "This test is Indicated for cardiac and stroke pateints. Tests includes - Cholesterol-Total, HDL, Non HDL, LDL, VLDL and Triglycerides, Lp(a), Apolipoproteins B/A1, Lp-PLA2, HsCRP, Homocysteine. "
         
         
-    },
+    }]
 
-    { 
+   export const liverDataset =    [{ 
         "id" : "10",
         "name" : "Sgot Test",
         "price" : "Rs 220",
@@ -1574,4 +1574,4 @@
         
     }
 ]
-    
+   

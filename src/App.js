@@ -18,6 +18,9 @@ import Corporate from './components/NavTop/Corporate';
 import HomeVisit from './components/NavTop/HomeVisit';
 import HeartTest from './components/HeartTest';
 import Alcoholism from './components/bootstrap/Alcoholism';
+import LiverTest from './components/LiverTest';
+
+
 
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
@@ -33,6 +36,7 @@ const App = () => {
         <NavBar />
         <Top />
         <Navigation />
+        
         <Switch>
         
         
@@ -74,12 +78,16 @@ const App = () => {
           <Route exact path="/healthrisk/heart">
             <HeartTest />
           </Route>
+          <Route exact path="/healthrisk/liver">
+            <LiverTest />
+          </Route>
           <Route exact path="/healthconditions/viewall">
             <HealthConditions />
           </Route>
           <Route exact path="/healthconditions/alcoholism">
             <Alcoholism />
           </Route>
+          
           
         
          

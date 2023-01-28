@@ -73,7 +73,7 @@ export default class Truepackages extends Component {
              <div className="truehealth-Container-Card-Row">
                <div className="truehealth-Container-Card-1">
                     <img className="cards-picture" src="https://www.metropolisindia.com/newdata/images/1663764671_Screening_(500x500).png" />
-                    <h2>TrueHealth Screen</h2>
+                    <a href="/truepackage/Card"><h2>TrueHealth Screen</h2></a>
                     <h5>Rs 499</h5>
                     <p className="truehealth-Container-Card-1-para-inside">A screening package which covers vital tests like HbA1C for diabetes,TSH for thyroid......</p>
 
@@ -94,7 +94,7 @@ export default class Truepackages extends Component {
                </div>
                <div className="truehealth-Container-Card-1">
                     <img className="cards-picture" src="https://www.metropolisindia.com/newdata/images/1663764671_Screening_(500x500).png" />
-                    <h2>TrueHealth Screen</h2>
+                    <a href="/truepackage/Card"><h2>TrueHealth Screen</h2></a>
                     <h5>Rs 499</h5>
                     <p className="truehealth-Container-Card-1-para-inside">A screening package which covers vital tests like HbA1C for diabetes, TSH for thyroid......</p>
 
@@ -115,7 +115,7 @@ export default class Truepackages extends Component {
                </div>
                <div className="truehealth-Container-Card-1">
                     <img className="cards-picture" src="https://www.metropolisindia.com/newdata/images/1663764671_Screening_(500x500).png" />
-                    <h2>TrueHealth Screen</h2>
+                    <a href="/truepackage/Card"><h2>TrueHealth Screen</h2></a>
                     <h5>Rs 499</h5>
                     <p className="truehealth-Container-Card-1-para-inside">A screening package which covers vital tests like HbA1C for diabetes, TSH for thyroid......</p>
 
@@ -160,7 +160,7 @@ export default class Truepackages extends Component {
                </div>
                <div className="truehealth-Container-Card-1">
                     <img className="cards-picture" src="https://www.metropolisindia.com/newdata/images/1663764671_Screening_(500x500).png" />
-                    <Link to="/truepackage/Card"><h2>TrueHealth Screen</h2></Link>
+                    <a href="/truepackage/Card"><h2>TrueHealth Screen</h2></a>
                     <h5>Rs 499</h5>
                     <p className="truehealth-Container-Card-1-para-inside">A screening package which covers vital tests like HbA1C for diabetes, TSH for thyroid......</p>
 

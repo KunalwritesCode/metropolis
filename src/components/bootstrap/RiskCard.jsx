@@ -45,13 +45,13 @@ export default class RiskCard extends Component {
         <Slider {...settings}>
           <div className="risk-section">
           
-           <img  className="risk-section-image" src="https://www.metropolisindia.com/newdata/images/04_07_2022_04_00_48_18.png" alt="#" />
+           <a href='/healthrisk/heart'><img  className="risk-section-image" src="https://www.metropolisindia.com/newdata/images/04_07_2022_04_00_48_18.png" alt="#" /></a>
            <h3>Heart</h3>
             
           </div>
          
           <div className="risk-section">
-         <img  className="risk-section-image" src="https://www.metropolisindia.com/newdata/images/04_07_2022_03_58_51_65.png" alt="#" />
+         <a href="/healthrisk/liver"><img  className="risk-section-image" src="https://www.metropolisindia.com/newdata/images/04_07_2022_03_58_51_65.png" alt="#" /></a>
           <h3>Liver</h3>
         </div>
           

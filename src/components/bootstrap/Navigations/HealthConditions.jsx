@@ -19,7 +19,7 @@ const HealthConditions = () => {
               <img src='https://www.metropolisindia.com/newdata/images/04_07_2022_04_57_01_31.png' />
               </div>
               <div>
-                <h6>Alcoholism</h6>
+                <a href='/healthconditions/alcoholism'><h6>Alcoholism</h6></a>
                 <p>Tests: 8</p>
               </div>
             </div>

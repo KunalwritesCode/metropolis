@@ -11,7 +11,7 @@ function Blood() {
       <Dropdown.Item href="#/action-1">Allergy Panel Test</Dropdown.Item>
       <Dropdown.Item href="#/action-2">Vitamin D Blood Test</Dropdown.Item>
       <Dropdown.Item href="#/action-3">Thyroid Test</Dropdown.Item>
-      <button className='drop-section-button'>View All</button>
+      
     </DropdownButton>
     
   );

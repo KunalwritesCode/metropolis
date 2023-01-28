@@ -1,4 +1,5 @@
-[
+
+    const healthRiskdata = [
     {
         "id" : "1",
          "img" : "https://www.metropolisindia.com/newdata/images/04_07_2022_04_00_48_18.png",
@@ -220,7 +221,6 @@
     }
     
    
-    
-    
-
 ]
+
+export default healthRiskdata ;

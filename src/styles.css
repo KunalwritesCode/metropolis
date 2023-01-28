@@ -31,12 +31,12 @@
 }
 
 .Upper-section-navbar a:hover {
-    color: #8E3200;
+    color: #838383;
   }
 
 .Upper-section-green-section{
     display: flex;
-    background-color:#8E3200;
+    background-color:#838383;
 }
 .Upper-section-green-section-image{
     padding: 5px 20px 0px 40px;
@@ -53,7 +53,7 @@
     
 }
 #Upper-section-green-section-location{
-    background-color: #8E3200;
+    background-color: #838383;
     padding-right: 10px;
     border-radius: 10px;
     color: white;
@@ -101,7 +101,7 @@
 }
 
 #Upper-section-green-section-dropdown-button{
-   background-color: #8E3200;
+   background-color: #838383;
    color: white;
    margin-left: 100px;
    margin-top: 20px;
@@ -214,7 +214,7 @@
     width: 70px;
     border-radius: 10px;
     margin-left: 20px;
-    background-color: #8E3200;
+    background-color: #838383;
     color: white;
     border-style: hidden;
  }
@@ -251,11 +251,11 @@
     background-color: white;
     color:black;
     border-radius: 10px;
-    border-color: #8E3200;
+    border-color: #838383;
  }
  .Mid-section-button5:hover{
     color: white;
-    background-color: #8E3200;
+    background-color: #838383;
     text-decoration: none;
  }
  .Mid-section-para{
@@ -285,8 +285,8 @@
 
 .package-section-Card-image{
     position: block;
-    width: 300px;
-    height: 250px;
+    width: 40rem;
+    height: 10rempx;
     margin-left: 20px;
     object-fit: cover;
     object-position: center;
@@ -301,7 +301,7 @@
 .package-card-section-butoon-one{
     margin-left: 115px;
     margin-top: 20px;
-    background-color: #8E3200;
+    background-color: #838383;
     color: white;
     font-size: small;
     width: 40px;
@@ -325,17 +325,18 @@
 .package-section-card-1-Cart-button{
     font-size: large;
     padding: 5px 80px;
-    margin-left: 30px;
+    margin-left: 7rem;
     margin-top: 5px;
-    background-color: rgb(54, 151, 184);
+    background-color:#838383;
     color: white;
+    border-radius: 10px;
     border-style: hidden;
 }
 
 .popular-card-section-butoon-one{
     margin-left: 115px;
    
-    background-color: #8E3200;
+    background-color: #838383;
     color: white;
     font-size: small;
     width: 40px;
@@ -360,9 +361,9 @@
     margin-left: 30px;
 }
 .popular-section-card-button{
-    margin-left: 225px;
+    margin-left: 28rem;
    
-    background-color: #8E3200;
+    background-color: #838383;
     color: white;
     font-size: small;
     width: 50px;
@@ -384,9 +385,9 @@
 .popular-section-card-button-Cart{
     font-size: medium;
     padding: 5px 80px;
-    margin-left: 60px;
+    margin-left: 8rem;
     margin-top: 5px;
-    background-color: #8E3200;
+    background-color: #838383;
     color: white;
     border-radius: 10px;
     border-style: hidden;
@@ -394,7 +395,7 @@
 
 .risk-section{
     display: flex;
-    border: 4px solid hwb(120 42% 5%);
+    border: 4px solid #838383;
     
     border-style: ridge;
     border-right: hidden;
@@ -478,7 +479,7 @@
 }
 
 .conditions-section-Card{
-    border: 3px solid hwb(120 42% 5%);
+    border: 3px solid #838383;
     border-style: ridge;
     margin-right: 30px;
     
@@ -495,7 +496,7 @@
 
 .News-image{
    
-    border: 3px ridge #8E3200;
+    border: 3px ridge #838383;
     border-right: hidden;
     border-top: hidden;
     margin: 20px;
@@ -508,17 +509,17 @@
     margin-top: 20px;
 }
 .News-Card-Link{
-   color: #8E3200;
+   color: #838383;
    text-decoration: none;
     
     
 }
 
 .our-apps-section{
-    border: 3px solid #4abfe2;
+    border: 3px solid #838383;
     margin-top: 40px;
     display: flex;
-    background-color: hwb(129 92% 1%);
+    background-color: #FCCBCB;
 }
 
 .our-apps-section-image{
@@ -542,7 +543,7 @@
     margin-left: 0px;
     margin-top: 10px;
     margin-bottom: 20px;
-    background-color: #8E3200;
+    background-color: #838383;
     color: white;
     border-radius: 10px;
     border-style: hidden;
@@ -694,7 +695,7 @@
 
 .footer-section-subcribe-follow-icon{
        margin-right: 20px;
-       background-color: #8E3200;
+       background-color: #838383;
        color: white;
        border-radius: 10px;
        padding: 5px;
@@ -706,7 +707,7 @@
 .footer-section-subcribe-Newsletter button{
     font-size: 15px;
     padding: 8px;
-    background-color: #8E3200;
+    background-color: #838383;
     color: white;
     border-style: hidden;
     margin-left: 10px;
@@ -863,7 +864,11 @@
 
 .Content-truehealth-Container-Card h1{
        padding-left: 18%;
+      
        
+}
+.truehealth-Container-Card-1 a{
+    text-decoration: none;
 }
 
 .truehealth-Container-Card-1-para{
@@ -896,7 +901,7 @@
     text-decoration: none;
     padding-left: 10px;
     margin-top: 20px;
-    color: #5ad36e;
+    color: #838383;
     font-weight: 600;
     
 }
@@ -933,7 +938,7 @@
     margin-left: 15px;
     margin-top: 30px;
     border-style: solid;
-    background-color: #5dccff;
+    background-color: #838383;
     color:white;
     border-radius: 5px;
     border-style: hidden;
@@ -1782,12 +1787,14 @@ select{
 .Healthrisk-container-inside{
     display: flex;
 }
+.Healthrisk-container-inside-card a{
+     text-decoration: none;
+     color: black;
+}
 .Healthrisk-container-inside-card{
     display: flex;
-    
-    margin-left: 15rem;
+    margin-left: 10rem;
     margin-top: 2rem;
-    
     border: 1px solid black;
     padding: 20px;
     width: 45rem;
@@ -1993,12 +2000,13 @@ select{
 .Heart-container-mid-1 p{
    font-size: 18px;
 }
-.Heart-container-mid-2{
-    margin-top: 4rem;
+.Heart-container-mid-22{
+   margin-left: 5rem;
 }
 
 .Heart-container-mid-2-inside{
-    display: flex;
+    margin-left: 5rem;
+    margin-right: 3rem;
     gap: 4rem;
 }
 .Heart-container-mid-2-inside-card{
